@@ -1,0 +1,1 @@
+﻿provider=SQLNCLI11.1;Integrated Security=SSPI;Persist Security Info=False;User ID=;Initial Catalog=TotoMIO;Data Source=(local);Initial File Name=;Server SPN=§staff.totomio@gmail.com§totomio227

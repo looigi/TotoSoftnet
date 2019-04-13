@@ -1,0 +1,802 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>
+    </SchemaVersion>
+    <ProjectGuid>{4CB77C50-6C21-4F1E-ABE5-DCA3A6CF7E9B}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{F184B08F-C81C-45F6-A57F-5ABD9991F28F}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <RootNamespace>TotoSoftNet21</RootNamespace>
+    <AssemblyName>TotoSoftNet2.1</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <MyType>Custom</MyType>
+    <UseIISExpress>true</UseIISExpress>
+    <IISExpressSSLPort />
+    <IISExpressAnonymousAuthentication />
+    <IISExpressWindowsAuthentication />
+    <IISExpressUseClassicPipelineMode />
+    <TargetFrameworkProfile />
+    <UseGlobalApplicationHostFile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\</OutputPath>
+    <DocumentationFile>TotoSoftNet2.1.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DocumentationFile>TotoSoftNet2.1.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="FreeTextBox">
+      <HintPath>..\..\..\..\Daunload\Appoggione\Framework-3-5\FreeTextBox.dll</HintPath>
+    </Reference>
+    <Reference Include="itextsharp, Version=5.5.8.0, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\AAA-ClassiUtili\PDF Dll - itextsharp-all-5.5.8\itextsharp.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Collections.Specialized" />
+    <Import Include="System.Configuration" />
+    <Import Include="System.Text" />
+    <Import Include="System.Text.RegularExpressions" />
+    <Import Include="System.Web" />
+    <Import Include="System.Web.Caching" />
+    <Import Include="System.Web.SessionState" />
+    <Import Include="System.Web.Security" />
+    <Import Include="System.Web.Profile" />
+    <Import Include="System.Web.UI" />
+    <Import Include="System.Web.UI.WebControls" />
+    <Import Include="System.Web.UI.WebControls.WebParts" />
+    <Import Include="System.Web.UI.HtmlControls" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="AggiornaConcorso.aspx" />
+    <Content Include="Bilancio.aspx" />
+    <Content Include="ChiusuraAnno.aspx" />
+    <Content Include="Colonne.aspx" />
+    <Content Include="Commenti.aspx" />
+    <Content Include="ClassificaSpeciale.aspx" />
+    <Content Include="ControlloSchedineGiocatori.aspx" />
+    <Content Include="PartiteGiornata.aspx" />
+    <Content Include="ListaQuote.aspx" />
+    <Content Include="Js\bootstrap.js" />
+    <Content Include="Js\bootstrap.min.js" />
+    <Content Include="Js\counter.js" />
+    <Content Include="Js\custom.js" />
+    <Content Include="Js\excanvas.js" />
+    <Content Include="Js\fullcalendar.min.js" />
+    <Content Include="Js\jquery-1.9.1.min.js" />
+    <Content Include="Js\jquery-migrate-1.0.0.min.js" />
+    <Content Include="Js\jquery-ui-1.10.0.custom.min.js" />
+    <Content Include="Js\jquery.bootstrap-growl.min.js" />
+    <Content Include="Js\jquery.chosen.min.js" />
+    <Content Include="Js\jquery.cleditor.min.js" />
+    <Content Include="Js\jquery.cookie.js" />
+    <Content Include="Js\jquery.dataTables.min.js" />
+    <Content Include="Js\jquery.elfinder.min.js" />
+    <Content Include="Js\jquery.flot.js" />
+    <Content Include="Js\jquery.flot.pie.js" />
+    <Content Include="Js\jquery.flot.resize.min.js" />
+    <Content Include="Js\jquery.flot.stack.js" />
+    <Content Include="Js\jquery.gritter.min.js" />
+    <Content Include="Js\jquery.imagesloaded.js" />
+    <Content Include="Js\jquery.iphone.toggle.js" />
+    <Content Include="Js\jquery.knob.modified.js" />
+    <Content Include="Js\jquery.masonry.min.js" />
+    <Content Include="Js\jquery.noty.js" />
+    <Content Include="Js\jquery.raty.min.js" />
+    <Content Include="Js\jquery.sparkline.min.js" />
+    <Content Include="Js\jquery.ui.touch-punch.js" />
+    <Content Include="Js\jquery.uniform.min.js" />
+    <Content Include="Js\jquery.uploadify-3.1.min.js" />
+    <Content Include="Js\modernizr.js" />
+    <Content Include="Js\retina.js" />
+    <Content Include="MDB\Totosoft.mdb" />
+    <Content Include="QuoteCUP.aspx" />
+    <Content Include="RegolamentoEsterno.aspx" />
+    <Content Include="TabelloneEuropaLeague.aspx" />
+    <Content Include="TabelloneChampionsLeague.aspx" />
+    <Content Include="TabelloneCoppaItalia2.aspx" />
+    <Content Include="PulsantieraPersonale.aspx" />
+    <Content Include="PulsantieraConcorsi.aspx" />
+    <Content Include="PulsantieraStatistiche.aspx" />
+    <Content Include="PulsantieraAmministrazione.aspx" />
+    <Content Include="css\bootstrap-responsive.css" />
+    <Content Include="css\bootstrap-responsive.min.css" />
+    <Content Include="css\bootstrap.css" />
+    <Content Include="css\bootstrap.min.css" />
+    <Content Include="css\chosen.css" />
+    <Content Include="css\elfinder.min.css" />
+    <Content Include="css\elfinder.theme.css" />
+    <Content Include="css\font-awesome-ie7.min.css" />
+    <Content Include="css\font-awesome.min.css" />
+    <Content Include="css\fullcalendar.css" />
+    <Content Include="css\glyphicons.css" />
+    <Content Include="css\halflings.css" />
+    <Content Include="css\icona_INFORMAZIONE.png" />
+    <Content Include="css\ie.css" />
+    <Content Include="css\ie9.css" />
+    <Content Include="css\img\icona_ATTENZIONE.png" />
+    <Content Include="css\img\icona_INFORMAZIONE.png" />
+    <Content Include="css\jquery-ui-1.8.21.custom.css" />
+    <Content Include="css\jquery.cleditor.css" />
+    <Content Include="css\jquery.gritter.css" />
+    <Content Include="css\jquery.iphone.toggle.css" />
+    <Content Include="css\jquery.noty.css" />
+    <Content Include="css\noty_theme_default.css" />
+    <Content Include="css\style-forms.css" />
+    <Content Include="css\style-responsive.css" />
+    <Content Include="css\style.css" />
+    <Content Include="css\TSN2.css" />
+    <Content Include="css\uniform.default.css" />
+    <Content Include="css\uploadify.css" />
+    <Content Include="Calendario.aspx" />
+    <Content Include="GestRiconDison.aspx" />
+    <Content Include="App_Themes\Standard\Menu.css">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="App_Themes\Standard\slideViewer.css" />
+    <Content Include="CambioUtente.aspx" />
+    <Content Include="Cassa.aspx" />
+    <Content Include="ChiudeConcorso.aspx" />
+    <Content Include="ClassificaCampionato.aspx" />
+    <Content Include="ClassificaGenerale.aspx" />
+    <Content Include="ColonnaPropria.aspx" />
+    <Content Include="ColonnaTappo.aspx" />
+    <Content Include="ControlloSchedine.aspx" />
+    <Content Include="ClassificaRisultati.aspx" />
+    <Content Include="CoppaInterToto.aspx" />
+    <Content Include="CoppaPippettero.aspx" />
+    <Content Include="Default.aspx" />
+    <Content Include="Errore.aspx" />
+    <Content Include="Eventi.aspx" />
+    <Content Include="GestioneAccount.aspx" />
+    <Content Include="GestioneCoppe.aspx" />
+    <Content Include="Js\modules\exporting.js" />
+    <Content Include="LetturaMessaggi.aspx" />
+    <Content Include="Messaggi.aspx" />
+    <Content Include="ModificaAnno.aspx" />
+    <Content Include="ModificaUtente.aspx" />
+    <Content Include="NuovoAnno.aspx" />
+    <Content Include="NuovoConcorso.aspx" />
+    <Content Include="NuovoUtente.aspx" />
+    <Content Include="PagaPayPal.aspx" />
+    <Content Include="Percentuali.aspx" />
+    <Content Include="PortaAmico.aspx" />
+    <Content Include="Prese.aspx" />
+    <Content Include="---Principale.aspx" />
+    <Content Include="Principale.aspx" />
+    <Content Include="PulsantieraCampionato.aspx" />
+    <Content Include="PulsantieraCoppe.aspx" />
+    <Content Include="Records.aspx" />
+    <Content Include="Registranti.aspx" />
+    <Content Include="Regolamento.aspx" />
+    <Content Include="Resoconto.aspx" />
+    <Content Include="RiapreConcorso.aspx" />
+    <Content Include="RiconDison.aspx" />
+    <Content Include="Scontri\10.Txt" />
+    <Content Include="Scontri\12.Txt" />
+    <Content Include="Scontri\14.Txt" />
+    <Content Include="Scontri\16.Txt" />
+    <Content Include="Scontri\18.Txt" />
+    <Content Include="Scontri\2.Txt" />
+    <Content Include="Scontri\20.Txt" />
+    <Content Include="Scontri\22.Txt" />
+    <Content Include="Scontri\24.Txt" />
+    <Content Include="Scontri\26.Txt" />
+    <Content Include="Scontri\28.Txt" />
+    <Content Include="Scontri\30.Txt" />
+    <Content Include="Scontri\32.Txt" />
+    <Content Include="Scontri\34.Txt" />
+    <Content Include="Scontri\4.Txt" />
+    <Content Include="Scontri\6.Txt" />
+    <Content Include="Scontri\8.Txt" />
+    <Content Include="Scontri\Preimpostati\16.Txt" />
+    <Content Include="Scontri\Preimpostati\32.txt" />
+    <Content Include="SegniUsciti.aspx" />
+    <Content Include="Sondaggi.aspx" />
+    <Content Include="SuddenDeath.aspx" />
+    <Content Include="SupercoppaEuropea.aspx" />
+    <Content Include="SupercoppaItaliana.aspx" />
+    <Content Include="Web.config">
+      <SubType>Designer</SubType>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AggiornaConcorso.aspx.designer.vb">
+      <DependentUpon>AggiornaConcorso.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AggiornaConcorso.aspx.vb">
+      <DependentUpon>AggiornaConcorso.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="App_Code\ACCESS.vb" />
+    <Compile Include="App_Code\Cassa.vb" />
+    <Compile Include="App_Code\ColonnaPropria.vb">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="App_Code\ControlliSchedina.vb" />
+    <Compile Include="App_Code\GeneraTabelloneCoppa.vb" />
+    <Compile Include="App_Code\GestioneImmagini.vb" />
+    <Compile Include="App_Code\GestionePDF.vb" />
+    <Compile Include="App_Code\Giocatori.vb" />
+    <Compile Include="App_Code\Griglie.vb" />
+    <Compile Include="App_Code\RiconoscimentiDisonori.vb" />
+    <Compile Include="App_Code\ScontriDiretti.vb" />
+    <Compile Include="App_Code\Eventi.vb" />
+    <Compile Include="App_Code\GestioneDB.vb" />
+    <Compile Include="App_Code\Generale.vb" />
+    <Compile Include="App_Code\GestioneFilesDirectory.vb" />
+    <Compile Include="App_Code\GestioneMail.vb" />
+    <Compile Include="App_Code\StringheClassifiche.vb" />
+    <Compile Include="App_Code\Supercoppe.vb" />
+    <Compile Include="Bilancio.aspx.designer.vb">
+      <DependentUpon>Bilancio.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Bilancio.aspx.vb">
+      <DependentUpon>Bilancio.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="Calendario.aspx.designer.vb">
+      <DependentUpon>Calendario.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Calendario.aspx.vb">
+      <DependentUpon>Calendario.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="CambioUtente.aspx.designer.vb">
+      <DependentUpon>CambioUtente.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CambioUtente.aspx.vb">
+      <DependentUpon>CambioUtente.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="Cassa.aspx.designer.vb">
+      <DependentUpon>Cassa.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Cassa.aspx.vb">
+      <DependentUpon>Cassa.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="ChiudeConcorso.aspx.designer.vb">
+      <DependentUpon>ChiudeConcorso.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ChiudeConcorso.aspx.vb">
+      <DependentUpon>ChiudeConcorso.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ChiusuraAnno.aspx.designer.vb">
+      <DependentUpon>ChiusuraAnno.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ChiusuraAnno.aspx.vb">
+      <DependentUpon>ChiusuraAnno.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="ClassificaCampionato.aspx.designer.vb">
+      <DependentUpon>ClassificaCampionato.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ClassificaCampionato.aspx.vb">
+      <DependentUpon>ClassificaCampionato.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="ClassificaGenerale.aspx.designer.vb">
+      <DependentUpon>ClassificaGenerale.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ClassificaGenerale.aspx.vb">
+      <DependentUpon>ClassificaGenerale.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="ColonnaPropria.aspx.designer.vb">
+      <DependentUpon>ColonnaPropria.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ColonnaPropria.aspx.vb">
+      <DependentUpon>ColonnaPropria.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="ColonnaTappo.aspx.designer.vb">
+      <DependentUpon>ColonnaTappo.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ColonnaTappo.aspx.vb">
+      <DependentUpon>ColonnaTappo.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="Colonne.aspx.designer.vb">
+      <DependentUpon>Colonne.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Colonne.aspx.vb">
+      <DependentUpon>Colonne.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="Commenti.aspx.designer.vb">
+      <DependentUpon>Commenti.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Commenti.aspx.vb">
+      <DependentUpon>Commenti.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="ControlloSchedineGiocatori.aspx.designer.vb">
+      <DependentUpon>ControlloSchedineGiocatori.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ControlloSchedineGiocatori.aspx.vb">
+      <DependentUpon>ControlloSchedineGiocatori.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="ControlloSchedine.aspx.designer.vb">
+      <DependentUpon>ControlloSchedine.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ControlloSchedine.aspx.vb">
+      <DependentUpon>ControlloSchedine.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="ClassificaRisultati.aspx.designer.vb">
+      <DependentUpon>ClassificaRisultati.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ClassificaRisultati.aspx.vb">
+      <DependentUpon>ClassificaRisultati.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="ClassificaSpeciale.aspx.designer.vb">
+      <DependentUpon>ClassificaSpeciale.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ClassificaSpeciale.aspx.vb">
+      <DependentUpon>ClassificaSpeciale.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PartiteGiornata.aspx.designer.vb">
+      <DependentUpon>PartiteGiornata.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PartiteGiornata.aspx.vb">
+      <DependentUpon>PartiteGiornata.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="ListaQuote.aspx.designer.vb">
+      <DependentUpon>ListaQuote.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ListaQuote.aspx.vb">
+      <DependentUpon>ListaQuote.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="QuoteCUP.aspx.designer.vb">
+      <DependentUpon>QuoteCUP.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="QuoteCUP.aspx.vb">
+      <DependentUpon>QuoteCUP.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="RegolamentoEsterno.aspx.designer.vb">
+      <DependentUpon>RegolamentoEsterno.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="RegolamentoEsterno.aspx.vb">
+      <DependentUpon>RegolamentoEsterno.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="TabelloneEuropaLeague.aspx.designer.vb">
+      <DependentUpon>TabelloneEuropaLeague.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="TabelloneEuropaLeague.aspx.vb">
+      <DependentUpon>TabelloneEuropaLeague.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="TabelloneChampionsLeague.aspx.designer.vb">
+      <DependentUpon>TabelloneChampionsLeague.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="TabelloneChampionsLeague.aspx.vb">
+      <DependentUpon>TabelloneChampionsLeague.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="TabelloneCoppaItalia2.aspx.designer.vb">
+      <DependentUpon>TabelloneCoppaItalia2.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="TabelloneCoppaItalia2.aspx.vb">
+      <DependentUpon>TabelloneCoppaItalia2.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PulsantieraPersonale.aspx.designer.vb">
+      <DependentUpon>PulsantieraPersonale.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PulsantieraPersonale.aspx.vb">
+      <DependentUpon>PulsantieraPersonale.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PulsantieraConcorsi.aspx.designer.vb">
+      <DependentUpon>PulsantieraConcorsi.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PulsantieraConcorsi.aspx.vb">
+      <DependentUpon>PulsantieraConcorsi.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PulsantieraStatistiche.aspx.designer.vb">
+      <DependentUpon>PulsantieraStatistiche.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PulsantieraStatistiche.aspx.vb">
+      <DependentUpon>PulsantieraStatistiche.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PulsantieraAmministrazione.aspx.designer.vb">
+      <DependentUpon>PulsantieraAmministrazione.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PulsantieraAmministrazione.aspx.vb">
+      <DependentUpon>PulsantieraAmministrazione.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="TsnIISM.Master.designer.vb">
+      <DependentUpon>TsnIISM.Master</DependentUpon>
+    </Compile>
+    <Compile Include="TsnIISM.Master.vb">
+      <DependentUpon>TsnIISM.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CoppaInterToto.aspx.designer.vb">
+      <DependentUpon>CoppaInterToto.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CoppaInterToto.aspx.vb">
+      <DependentUpon>CoppaInterToto.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="CoppaPippettero.aspx.designer.vb">
+      <DependentUpon>CoppaPippettero.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CoppaPippettero.aspx.vb">
+      <DependentUpon>CoppaPippettero.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="Default.aspx.designer.vb">
+      <DependentUpon>Default.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Default.aspx.vb">
+      <DependentUpon>Default.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="Errore.aspx.designer.vb">
+      <DependentUpon>Errore.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Errore.aspx.vb">
+      <SubType>ASPXCodeBehind</SubType>
+      <DependentUpon>Errore.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Eventi.aspx.designer.vb">
+      <DependentUpon>Eventi.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Eventi.aspx.vb">
+      <DependentUpon>Eventi.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="GestioneAccount.aspx.designer.vb">
+      <DependentUpon>GestioneAccount.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="GestioneAccount.aspx.vb">
+      <DependentUpon>GestioneAccount.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="GestioneCoppe.aspx.designer.vb">
+      <DependentUpon>GestioneCoppe.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="GestioneCoppe.aspx.vb">
+      <DependentUpon>GestioneCoppe.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="GestRiconDison.aspx.designer.vb">
+      <DependentUpon>GestRiconDison.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="GestRiconDison.aspx.vb">
+      <DependentUpon>GestRiconDison.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="LetturaMessaggi.aspx.designer.vb">
+      <DependentUpon>LetturaMessaggi.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="LetturaMessaggi.aspx.vb">
+      <DependentUpon>LetturaMessaggi.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="Messaggi.aspx.designer.vb">
+      <DependentUpon>Messaggi.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Messaggi.aspx.vb">
+      <DependentUpon>Messaggi.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="ModificaAnno.aspx.designer.vb">
+      <DependentUpon>ModificaAnno.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ModificaAnno.aspx.vb">
+      <DependentUpon>ModificaAnno.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="ModificaUtente.aspx.designer.vb">
+      <DependentUpon>ModificaUtente.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ModificaUtente.aspx.vb">
+      <DependentUpon>ModificaUtente.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\MyExtensions\MyWebExtension.vb">
+      <VBMyExtensionTemplateID>Microsoft.VisualBasic.Web.MyExtension</VBMyExtensionTemplateID>
+      <VBMyExtensionTemplateVersion>1.0.0.0</VBMyExtensionTemplateVersion>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="NuovoAnno.aspx.designer.vb">
+      <DependentUpon>NuovoAnno.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="NuovoAnno.aspx.vb">
+      <DependentUpon>NuovoAnno.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="NuovoConcorso.aspx.designer.vb">
+      <DependentUpon>NuovoConcorso.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="NuovoConcorso.aspx.vb">
+      <DependentUpon>NuovoConcorso.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="NuovoUtente.aspx.designer.vb">
+      <DependentUpon>NuovoUtente.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="NuovoUtente.aspx.vb">
+      <DependentUpon>NuovoUtente.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="PagaPayPal.aspx.designer.vb">
+      <DependentUpon>PagaPayPal.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PagaPayPal.aspx.vb">
+      <DependentUpon>PagaPayPal.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="Percentuali.aspx.designer.vb">
+      <DependentUpon>Percentuali.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Percentuali.aspx.vb">
+      <DependentUpon>Percentuali.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="PortaAmico.aspx.designer.vb">
+      <DependentUpon>PortaAmico.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PortaAmico.aspx.vb">
+      <DependentUpon>PortaAmico.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="Prese.aspx.designer.vb">
+      <DependentUpon>Prese.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Prese.aspx.vb">
+      <DependentUpon>Prese.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="---Principale.aspx.designer.vb">
+      <DependentUpon>---Principale.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="---Principale.aspx.vb">
+      <DependentUpon>---Principale.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="Principale.aspx.designer.vb">
+      <DependentUpon>Principale.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Principale.aspx.vb">
+      <DependentUpon>Principale.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PulsantieraCampionato.aspx.designer.vb">
+      <DependentUpon>PulsantieraCampionato.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PulsantieraCampionato.aspx.vb">
+      <DependentUpon>PulsantieraCampionato.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PulsantieraCoppe.aspx.designer.vb">
+      <DependentUpon>PulsantieraCoppe.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PulsantieraCoppe.aspx.vb">
+      <DependentUpon>PulsantieraCoppe.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Records.aspx.designer.vb">
+      <DependentUpon>Records.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Records.aspx.vb">
+      <DependentUpon>Records.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="Registranti.aspx.designer.vb">
+      <DependentUpon>Registranti.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Registranti.aspx.vb">
+      <DependentUpon>Registranti.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="Regolamento.aspx.designer.vb">
+      <DependentUpon>Regolamento.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Regolamento.aspx.vb">
+      <DependentUpon>Regolamento.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="Resoconto.aspx.designer.vb">
+      <DependentUpon>Resoconto.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Resoconto.aspx.vb">
+      <DependentUpon>Resoconto.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="RiapreConcorso.aspx.designer.vb">
+      <DependentUpon>RiapreConcorso.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="RiapreConcorso.aspx.vb">
+      <DependentUpon>RiapreConcorso.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="RiconDison.aspx.designer.vb">
+      <DependentUpon>RiconDison.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="RiconDison.aspx.vb">
+      <DependentUpon>RiconDison.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="SegniUsciti.aspx.designer.vb">
+      <DependentUpon>SegniUsciti.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="SegniUsciti.aspx.vb">
+      <DependentUpon>SegniUsciti.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="Sondaggi.aspx.designer.vb">
+      <DependentUpon>Sondaggi.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Sondaggi.aspx.vb">
+      <DependentUpon>Sondaggi.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="SuddenDeath.aspx.designer.vb">
+      <DependentUpon>SuddenDeath.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="SuddenDeath.aspx.vb">
+      <DependentUpon>SuddenDeath.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="SupercoppaEuropea.aspx.designer.vb">
+      <DependentUpon>SupercoppaEuropea.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="SupercoppaEuropea.aspx.vb">
+      <DependentUpon>SupercoppaEuropea.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="SupercoppaItaliana.aspx.designer.vb">
+      <DependentUpon>SupercoppaItaliana.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="SupercoppaItaliana.aspx.vb">
+      <DependentUpon>SupercoppaItaliana.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="TsnII.Master.designer.vb">
+      <DependentUpon>TsnII.Master</DependentUpon>
+    </Compile>
+    <Compile Include="TsnII.Master.vb">
+      <DependentUpon>TsnII.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="My Project\licenses.licx" />
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="TsnIISM.Master" />
+    <Content Include="css\font.css" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\PublishProfiles\TotoMio.pubxml" />
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <Content Include="TsnII.Master" />
+    <None Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+    <None Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup />
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.VisualBasic.targets" />
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>True</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>61140</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>http://localhost:5279/</IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

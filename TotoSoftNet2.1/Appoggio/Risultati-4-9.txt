@@ -1,0 +1,1837 @@
+<!doctype html>
+<!--[if lt IE 7 ]><html class="no-js ie6" lang="it"> <![endif]-->
+<!--[if IE 7 ]><html class="no-js ie7" lang="it"> <![endif]-->
+<!--[if IE 8 ]><html class="no-js ie8" lang="it"> <![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!--> <html class="no-js" lang="it"> <!--<![endif]-->
+<head>
+    <meta charset="utf-8">
+    <title>calcio - partite/gare in diretta, risultati in tempo reale. Sport Repubblica</title>
+<meta http-equiv="refresh" content="300;URL=?refresh_cens">
+	<base href="http://www.repubblica.it/sport/dirette/">
+	
+    <meta name="description" content="Risultati partite/gare di calcio in tempo reale. Aggiornamenti in diretta dai campionati e tornei di tutto il mondo. Segui il livescore con le dirette di Repubblica Sport.">
+    <meta property="og:description" content="Risultati partite/gare di calcio in tempo reale. Aggiornamenti in diretta dai campionati e tornei di tutto il mondo. Segui il livescore con le dirette di Repubblica Sport.">
+<meta name="keywords" content="Sport" />
+	
+	
+	<meta name="application-name" content="Sport - Repubblica.it" />
+
+	<meta property="og:title" content="calcio - partite/gare in diretta, risultati in tempo reale. Sport Repubblica">
+    
+	<link rel="canonical" href="http://www.repubblica.it/sport/dirette/listadirette/calcio/">
+	<meta property="og:url" content="http://www.repubblica.it/sport/dirette/listadirette/calcio/">
+    
+    <link rel="alternate" type="application/rss+xml" title="Sport - La Repubblica" href="http://www.repubblica.it/rss/sport/rss2.0.xml">
+    <meta name="msapplication-window" content="width=1024;height=768">
+    <meta name="msapplication-tooltip" content="Naviga sulla sezione Sport de La Repubblica.it">
+    <link rel="search" type="application/opensearchdescription+xml" href="http://www.repubblica.it/statickpm3/common/xml/opensearch_desc.xml" title="Cerca su la Repubblica.it">
+    <link rel="alternate" type="application/rss+xml" title="Homepage - La Repubblica" href="http://www.repubblica.it/rss/homepage/rss2.0.xml">
+    <meta name="msapplication-starturl" content="http://www.repubblica.it/sport/">
+  
+    <link rel="apple-touch-icon" href="http://www.repubblica.it/images/homepage/apple-touch-icon.png">
+    <meta name="viewport" content="width=1060">
+<!--INIZIO SECTION_TERM-->
+
+			  		  							
+	<script type="text/javascript">var term = '/repubblica/sport/dirette-sportive/diretta-calcio';</script>
+<!--FINE SECTION_TERM-->
+<!-- $headsite -->
+<!--INIZIO HEAD-->
+<link href="https://www.repstatic.it/cless/main/nazionale/2013-v1/css/common/shared-elements.css" rel="stylesheet">
+<link rel="stylesheet" href="http://www.repubblica.it/static/css/sport/2012/detail.css">
+<link rel="stylesheet" href="http://www.repubblica.it/static/css/section/2010/section-base.css">
+<script type="text/javascript" src="http://www.repubblica.it/static/js/common/jquery-1.7.1.min.js"></script>
+<script type="text/javascript" src="http://www.repubblica.it/static/js/common/gs/gs-plugins.js"></script>
+<script src="http://www.repubblica.it/static/js/section/2010/section-base.js"></script>
+<script src="http://www.repubblica.it/static/js/common/active-navigation.js"></script>
+<script src="http://www.repubblica.it/static/js/sport/2012/plugins.js?v=2"></script>
+<script type="text/javascript" src="http://www.repstatic.it/cless/common/stable/js/script/api/slimheader.js"></script>
+<script type="text/javascript" src="https://www.repstatic.it/minify/sites/repubblica/nazionale/common/common.cache.php?name=common_external_js"></script>
+<script src="http://www.repubblica.it/static/js/sport/2012/script.js"></script>
+<!--FINE HEAD-->
+<!-- end $headsite -->
+
+
+<script src="http://oasjs.kataweb.it/adsetup.js"></script>
+<link rel="stylesheet" href="https://www.repstatic.it/cless/main/sport-dati/2016/css/dirette-sportive.css">
+
+	
+		
+<script>
+	var pageHref = 'http://www.repubblica.it/sport/dirette/listadirette/calcio/';
+ var pageType = 'dettaglio_tabelle';
+</script>
+
+</head>
+<body class="detail stats rep-shared livescore-dirette"   id="page-lista-dirette" >
+<script type="text/javascript">OAS_RICH('Position3');</script>
+<div class="adv adv-top3"><script type="text/javascript">OAS_RICH('Top3');</script></div>
+<!-- $headersite -->
+<!--INIZIO HEADER-->
+
+        <div class="adv adv-top">
+<script type="text/javascript">OAS_RICH('Top');</script></div>
+       
+        <div id="container">
+	        
+	     <div id="header">
+    
+    
+   <!-- NUOVO SLIMHEADER -->
+
+	<div id="network-extra-container">
+		<section class="network-container">
+		<h1 class="assistive-text">Network</h1>
+		<ul>
+			<li class="network-list-item"><a title="Network" href="#">Network</a>
+				<div class="network-list-container">
+					<div class="network-list-wrapper">
+						<section class="list-01">
+							<h1>Quotidiani locali</h1>
+							<div>
+								<a title="Alto Adige" href="http://altoadige.gelocal.it/">Alto Adige</a>
+								<a title="Corriere delle Alpi" href="http://corrierealpi.gelocal.it/">Corriere delle Alpi</a>
+								<a title="Gazzetta di Mantova" href="http://gazzettadimantova.gelocal.it/">Gazzetta di Mantova</a>
+								<a title="Gazzetta di Modena" href="http://gazzettadimodena.gelocal.it/">Gazzetta di Modena</a>
+								<a title="Gazzetta di Reggio" href="http://gazzettadireggio.gelocal.it/">Gazzetta di Reggio</a>
+								<a title="Il Centro" href="http://ilcentro.gelocal.it/">Il Centro</a>
+								<a title="Il mattino di Padova" href="http://mattinopadova.gelocal.it/">Il mattino di Padova</a>
+								<a title="Il Piccolo" href="http://ilpiccolo.gelocal.it/">Il Piccolo</a>
+								<a title="Il Tirreno" href="http://iltirreno.gelocal.it/">Il Tirreno</a>
+								<a title="Il FÃ²" href="http://ilforomagna.gelocal.it/">Il FÃ²</a>
+							</div>
+							<div>
+								<a title="Il Trentino" href="http://trentinocorrierealpi.gelocal.it/">Il Trentino</a>
+								<a title="La CittÃ  di Salerno" href="http://lacittadisalerno.gelocal.it/">La CittÃ  di Salerno</a>
+								<a title="La Nuova Ferrara" href="http://lanuovaferrara.gelocal.it/">La Nuova Ferrara</a>
+								<a title="La Nuova Sardegna" href="http://lanuovasardegna.gelocal.it/">La Nuova Sardegna</a>
+								<a title="La Nuova Venezia" href="http://nuovavenezia.gelocal.it/">La Nuova Venezia</a>
+								<a title="La Provincia Pavese" href="http://laprovinciapavese.gelocal.it/">La Provincia Pavese</a>
+								<a title="La Sentinella del Canavese" href="http://lasentinella.gelocal.it/">La Sentinella del Canavese</a>
+								<a title="La Tribuna di Treviso" href="http://tribunatreviso.gelocal.it/">La Tribuna di Treviso</a>
+								<a title="Messaggero Veneto" href="http://messaggeroveneto.gelocal.it/">Messaggero Veneto</a>
+								<a title="Il BÃ²" href="http://ilboemilia.gelocal.it/">Il BÃ²</a>
+							</div>
+						</section>
+						<section class="list-02">
+							<h1>Periodici</h1>
+							<a title="Lâ€™espresso" href="http://espresso.repubblica.it/">lâ€™Espresso</a>
+							<a title="Espresso - Food and Wine" href="http://espresso.repubblica.it/food/">Espresso - Food and Wine</a>
+							<a title="Le Scienze" href="http://www.lescienze.it">Le Scienze</a>
+							<a title="National Geographic" href="http://www.nationalgeographic.it/">National Geographic</a>
+							<a title="Micromega" href="http://temi.repubblica.it/micromega-online/">Micromega</a>
+							<a title="Chiesa.it" href="http://www.chiesa.espressonline.it/">Chiesa.it</a>
+							<a title="Limes" href="http://temi.repubblica.it/limes">Limes</a>
+						</section>
+						<div class="list-03">
+							<section>
+								<h1>Radio</h1>
+								<a title="Capital" href="http://www.capital.it/">Capital</a>
+								<a title="DeeJay" href="http://www.deejay.it/">DeeJay</a>
+								<a title="m2o" href="http://www.m2o.it/">m2o</a>
+							</section>
+							<section class="servizi-tv-consumi">	
+								<h1>Servizi, Tv e consumi</h1>
+								<a title="Annunci" href="http://annunci.repubblica.it/italia/">Annunci</a>
+								<a title="Mymovies.it" href="http://www.mymovies.it/">Mymovies.it</a>
+								<a title="Necrologie" href="http://necrologie.repubblica.it/">Necrologie</a>
+								<a title="Vai alla Home di TvZap" href="http://tvzap.kataweb.it/">TvZap</a>
+								<a title="Vai alla Guida TV" href="http://tvzap.kataweb.it/categoria/guida-tv/">Guida Tv</a>
+								<a title="MioJob" href="http://miojob.repubblica.it?utm_source=hp.repubblica.it&amp;utm_medium=linktr&amp;utm_campaign=intragruppo">MioJob</a>
+								<a title="Enti e Tribunali" href="http://www.entietribunali.kataweb.it/">Enti e Tribunali</a>
+								<a title="Fantacalcio" href="http://www.fantacalcio.it/">Fantacalcio</a>
+								<a title="Ristoranti" href="http://roma.repubblica.it/ristoranti/roma/index.html">Ristoranti</a>
+								<a title="Professionisti d'Impresa" href="http://www.repubblica.it/static/speciale/2015/manzoni/nova-mediagroup/index.html">Professionisti d'Impresa</a>
+							</section>
+						</div>
+						<section class="list-04">
+							<h1>I siti di Repubblica</h1>
+							<a title="Vai al sito di D - la Repubblica" href="http://d.repubblica.it/">D - la Repubblica</a>
+							<a title="Vai al sito di TrovaCinema" href="http://trovacinema.repubblica.it/">TrovaCinema</a>
+							<a title="Vai al sito di Casa&amp;Design" href="http://design.repubblica.it/">Casa&amp;Design</a>
+							<a title="Vai al sito di XL" href="http://xl.repubblica.it/">XL</a>
+							<a title="Vai al sito di ilmiolibro.it" href="http://ilmiolibro.kataweb.it/">ilmiolibro.it</a>
+							<a title="Vai al sito di Storiebrevi" href="http://www.storiebrevi.it/">Storiebrevi</a>
+						</section>
+						<!-- <a title="Chiudi o premi il tasto Esc" href="#" class="close-network">Chiudi</a> -->
+					</div>
+				</div>
+				
+			</li>
+			<li class="network-espresso"><a title="Lâ€™Espresso" href="http://espresso.repubblica.it/">lâ€™Espresso</a></li>
+			<li class="network-inchieste"><a title="RE Le inchieste" href="http://inchieste.repubblica.it/">RE Le inchieste</a></li>
+		</ul>
+	</section>
+	
+	<div class="extra-container">
+		<div class="account-data-container"></div>
+		
+		<!--
+<section class="search-container" role="search">
+			<h1>Cerca su Repubblica.it</h1>
+			<form action="http://ricerca.repubblica.it/repubblica" method="get" id="searchform">
+				<div class="input-search-container">
+					<input type="text" id="search" name="query" placeholder="Cerca" autocomplete="off" class="text">
+					<input type="hidden" name="view" value="repubblica">
+					<input type="hidden" value="Search" name="">
+				</div>
+			</form>
+		</section>
+-->
+
+		<section class="slim-header-annunci-lavori">
+			<h1 class="assistive-text">Annunci, lavoro e aste</h1>
+			<ul>
+				<li><a href="http://miojob.repubblica.it/?utm_source=hp.repubblica.it&utm_medium=linktr&utm_campaign=intragruppo">Lavoro</a></li>
+				<li><a href="http://annunci.repubblica.it/italia/">Annunci</a></li>
+				<li><a href="http://www.entietribunali.kataweb.it/">Aste</a></li>
+			</ul>
+		</section>
+		
+	</div>
+	
+	
+</div>
+
+<!-- NUOVO SLIMHEADER --> 
+    
+    
+    
+    
+    
+    
+    
+</div>
+	        <header id="page-header" role="banner" class="livescore-dirette">
+            <hgroup> 
+  	<h2 class="brand"><a class="ir rep-logo" title="Vai alla home di Repubblica.it" href="http://www.repubblica.it">Repubblica.it</a></h2>
+  	
+  	
+  	<!--   	Nuovo logo -->
+  	<h1 class="brand"><a class="sport-logo" title="Vai alla home di Repubblica Sport" href="http://www.repubblica.it/sport">Sport</a></h1>
+  	
+  	
+  	
+  	
+</hgroup>	
+
+<section class="search clearfix" role="search">
+    <!--INIZIO SEARCH FORM-->
+    <form method="post" id="site-search" action="http://ricerca.repubblica.it/repubblica" accept-charset="iso-8859-1">
+        <fieldset id="site-searchform">
+        <label>Cerca nel sito</label>
+        <input name="query" id="site-input" value="Inserisci il testo" autocomplete="off">
+        <button value="submit" id="site-searchformbutton" type="submit" class="submit-button">cerca</button>
+<!--
+        <ul class="site-search-option hide">
+            <li>
+                <ul>
+                    <li><label><input type="radio" name="view" value="repubblica" checked="checked">Repubblica</label></li>
+                    <li class="search-google"><label><input type="radio" name="view" value="web">Web con Google</label></li>
+        
+                </ul>
+            </li>
+        </ul>
+-->
+        </fieldset>
+    </form>
+    <!--FINE SEARCH FORM-->
+	<div class="follow">
+		<h5>
+			<a href="http://www.repubblica.it/sport/giochi-e-scommesse/2013/01/31/news/bet4win-72245975/">Scommesse</a>
+		</h5>
+
+<!-- 		SOCIAL -->
+		<div id="gs-social-follow"></div>
+
+	</div>
+</section>
+<div class="fantacalcio">
+	<a href="http://www.fantacalcio.it/?ref=trs" target="_blank">Fantacalcio: Il primo, l'unico, l'originale</a>
+</div>
+            <nav role="navigation">
+				
+<ul class="nav first-nav">
+    <li id="nav_home"><a href="http://www.repubblica.it/sport/">Home</a></li>
+    <li id="nav_calcio"><a href="http://www.repubblica.it/sport/calcio/serie-a/">Calcio</a></li>
+    <li id="nav_formulauno"><a href="http://www.repubblica.it/sport/formulauno/">F1</a></li>
+    <li id="nav_motogp"><a href="http://www.repubblica.it/sport/moto-gp/">MotoGP</a></li>
+    <li id="nav_tennis"><a href="http://www.repubblica.it/sport/tennis/">Tennis</a></li>
+    <li id="nav_basket"><a href="http://www.repubblica.it/sport/basket/">Basket</a></li>
+    <li id="nav_rugby"><a href="http://www.repubblica.it/sport/rugby/">Rugby</a></li>
+    <li id="nav_ciclismo"><a href="http://www.repubblica.it/sport/ciclismo/">Ciclismo</a></li>
+    <li id="nav_golf"><a href="http://www.repubblica.it/sport/golf/">Golf</a></li>
+    <li id="nav_volley"><a href="http://www.repubblica.it/sport/volley/">Volley</a></li>
+<!--     <li id="nav_vela"><a href="http://www.repubblica.it/sport/vela/">Vela</a></li> -->
+    <li id="nav_altrisport"><a href="http://www.repubblica.it/sport/vari/">Altri Sport</a></li>
+    <li id="nav_dirette-sportive" class="button-orange"><a href="http://dirette.sport.repubblica.it/listadirette/calcio/">LIVESCORE</a></li>
+</ul>
+
+
+<ul class="nav second-nav menu-calcio hide">
+    <li id="nav_seriea"><a href="http://www.repubblica.it/sport/calcio/serie-a/index.html" class="seriea">Serie A</a></li>
+    <li id="nav_serieb"><a href="http://www.repubblica.it/sport/calcio/serie-b/index.html" class="serieb">Serie B</a></li>
+    <li id="nav_legapro"><a href="http://www.repubblica.it/sport/calcio/legapro/" class="legapro">Lega Pro</a></li>
+    <!-- <li id="nav_campionato-locale"><a href="http://www.repubblica.it/sport/calcio/campionato-locale/" class="campionato-locale">Dilettanti e Giovanili</a>
+    </li> -->
+    <li id="nav_champions"><a href="http://www.repubblica.it/sport/calcio/champions/index.html" class="champions">Champions</a></li>
+    <li id="nav_coppe"><a href="http://www.repubblica.it/sport/calcio/coppe/index.html">E.League</a></li>
+    <li id="nav_coppe"><a href="http://www.repubblica.it/static/speciale/2016/coppa-italia/tabellone.html">Coppa Italia</a></li>
+    <li id="nav_nazionale"><a href="http://www.repubblica.it/sport/calcio/nazionale/index.html" class="nazionale">Nazionale</a></li>
+    <!-- <li id="nav_under"><a href="http://www.repubblica.it/sport/calcio/giovane-italia/index.html">Under</a></li>-->
+    <li id="nav_esteri"><a href="http://www.repubblica.it/sport/calcio/esteri/index.html" class="esteri">Esteri</a></li>
+<!--     <li id="nav_mercato"><a href="http://www.repubblica.it/sport/calcio/mercato/index.html">Mercato</a></li> -->
+    <!-- <li id="nav_fantacalcio"><a href="http://www.fantacalcio.it/">Fantacalcio</a></li> -->
+</ul>
+<ul class="nav second-nav menu-basket hide livescore">
+	    <span>Basket:</span>
+	    <li id="nav_dirette-basket"><a href="http://www.repubblica.it/sport/dirette/listadirette/basket/">Dirette e Risultati</a></li>
+        <li id="nav_classifica-basket-seriea"><a href="http://www.repubblica.it/sport/dirette/classifica/basket/italia/serie-a/A1">Classifica Serie A</a></li>
+        <li id="nav_calendario-basket-seriea"><a href="http://www.repubblica.it/sport/dirette/calendario/basket/italia/serie-a/A1" class="last">Calendario Serie A</a></li>
+        <li id="nav_classifica-basket-seriea2s"><a href="http://www.repubblica.it/sport/dirette/classifica/basket/italia/a2-east/mondo-ITA_A2EB">Classifica A2E</a></li>
+        <li id="nav_calendario-basket-seriea2s"><a href="http://www.repubblica.it/sport/dirette/calendario/basket/italia/a2-east/mondo-ITA_A2EB" class="last">Calendario A2E</a></li>
+        <li id="nav_classifica-basket-seriea2"><a href="http://www.repubblica.it/sport/dirette/classifica/basket/italia/a2-ovest/mondo-ITA_A2WB">Classifica A2O</a></li>
+        <li id="nav_calendario-basket-seriea2"><a href="http://www.repubblica.it/sport/dirette/calendario/basket/italia/a2-ovest/mondo-ITA_A2WB" class="last">Calendario A2O</a></li>        
+         <!--li id="nav_classifica-basket-serieaf"><a href="http://www.repubblica.it/sport/dirette/classifica/basket/italia/basket-femminile/AF">Classifica AF</a></li>
+        <li id="nav_calendario-basket-serieaf"><a href="http://www.repubblica.it/sport/dirette/calendario/basket/italia/basket-femminile/AF" class="last">Calendario AF</a></li-->
+        <li id="nav_classifica-basket-seriea2"><a href="http://www.repubblica.it/sport/dirette/classifica/basket/internazionale/euroleague/mondo-INT_EURB">Classifica EL</a></li>
+        <li id="nav_classifica-basket-seriea2"><a href="http://www.repubblica.it/sport/dirette/calendario/basket/internazionale/euroleague/mondo-INT_EURB">Calendario EL</a></li> 
+</ul>
+<ul class="nav second-nav menu-formulauno hide livescore">
+	<span>Formula 1:</span>
+	<li id="nav_dirette-formula1"><a href="http://www.repubblica.it/sport/dirette/listadirette/formula1">Dirette e Risultati</a></li>
+    <li id="nav_calendario-formulauno"><a href="http://www.repubblica.it/static/speciale/2017/formulauno/circuiti/index.html">Calendario e Circuiti</a></li>
+    <!--  <li id="nav_circuiti-formulauno"><a href="http://www.repubblica.it/static/speciale/2016/formulauno/circuiti/index.html">Circuiti</a></li> -->
+    <li id="nav_piloti-e-scuderie-formulauno"><a href="http://www.repubblica.it/static/speciale/2017/formulauno/piloti_teams.html">Team e Piloti</a></li>
+    <!--  <li id="nav_ordine-d-arrivo-formulauno"><a href="http://www.repubblica.it/static/speciale/2016/formulauno/ordine_arrivo.html">Ordine d'arrivo</a></li> -->
+    <li id="nav_classifica-piloti-formulauno"><a href="http://www.repubblica.it/static/speciale/2017/formulauno/classifica-piloti.html">Classifica Piloti</a></li>
+    <li id="nav_classifica-costruttori-formulauno"><a href="http://www.repubblica.it/static/speciale/2017/formulauno/classifica-costruttori.html">Classifica Team</a></li>
+    <li id="nav_regolamento-formulauno"><a href="http://www.repubblica.it/static/speciale/2017/formulauno/regolamento.html">Regolamento</a></li>
+    <!--  <li id="nav_gpchallenge-formulauno"><a href="http://sport.repubblica.it/pirelligpchallenge">GPChallenge</a></li> -->
+</ul> 
+<ul class="nav second-nav menu-motogp hide livescore">
+	    <span>Moto GP:</span>
+	    <li id="nav_dirette-motogp"><a href="http://www.repubblica.it/sport/dirette/listadirette/moto">Dirette e Risultati</a></li>
+        <li id="nav_calendario-2012"><a href="http://www.repubblica.it/static/speciale/2017/motogp/circuiti/index.html">Calendario e Circuiti</a></li>
+        <!--li id="nav_circuiti"><a href="http://www.repubblica.it/static/speciale/2017/motogp/circuiti/index.html">Circuiti</a></li-->
+        <li id="nav_piloti-e-teams"><a href="http://www.repubblica.it/static/speciale/2017/motogp/piloti_teams.html">Team e Piloti</a></li>
+        <!-- <li id="nav_ordine-d-arrivo"><a href="http://www.repubblica.it/static/speciale/2017/motogp/ordine_arrivo.html">Ordine d&rsquo;arrivo</a></li> -->
+        <li id="nav_classifica-piloti"><a href="http://www.repubblica.it/static/speciale/2017/motogp/classifica_piloti.html">Classifica Piloti</a></li>
+        <li id="nav_classifica-costruttori"><a href="http://www.repubblica.it/static/speciale/2017/motogp/classifica_team.html">Classifica Team</a></li>
+</ul>
+
+<!--ul class="nav second-nav menu-superbike hide">
+	    <span>SUPERBIKE:</span>
+        <li id="nav_calendario"><a href="http://www.repubblica.it/static/speciale/2013/superbike/circuiti/index.html">Calendario</a></li>
+        <li id="nav_piloti-e-teams"><a href="http://www.repubblica.it/static/speciale/2013/superbike/piloti_teams.html">Piloti e Teams</a></li>
+        <li id="nav_classifica-piloti"><a href="http://www.repubblica.it/static/speciale/2013/superbike/classifica_piloti.html">Classifica piloti</a></li>
+        <li id="nav_classifica-teams"><a href="http://www.repubblica.it/static/speciale/2013/superbike/classifica_team.html">Classifica teams</a></li>
+        <li id="nav_ordine-arrivo"><a href="http://www.repubblica.it/static/speciale/2013/superbike/ordine_arrivo.html">Ordine d&rsquo;arrivo</a></li>
+</ul-->
+
+<!-- ### WIMBLEDON ### -->
+<ul class="nav second-nav menu-tennis hide">
+       	    
+        <li id="nav_testatina"><img src="/static/speciale/2017/wimbledon/images/wimbledon-title.png" /></li>     
+        <li id="nav_percorso"><a href="http://www.repubblica.it/sport/tennis/2017/06/28/news/wimbledon_2017_il_tabellone_maschile-169363453/">Tabellone uomini</a></li>
+        <li id="nav_percorso"><a href="http://www.repubblica.it/sport/tennis/2017/06/28/news/wimbledon_2017_il_tabellone_femminile-169363555/">Tabellone donne</a></li>
+        <li id="nav_percorso"><a href="http://www.repubblica.it/sport/tennis/2017/06/28/news/wimbledon_2017_l_albo_d_oro_uomini-169363763/">L'albo d'oro uomini</a></li>
+        <li id="nav_percorso"><a href="http://www.repubblica.it/sport/tennis/2017/06/28/news/wimbledon_2017_l_albo_d_oro_donne-169363875/">L'albo d'oro donne</a></li>
+        <li id="nav_percorso"><a href="http://www.repubblica.it/sport/dirette/listadirette/tennis/">Dirette e Risultati</a></li>
+</ul>
+
+<!-- ### INTERNAZIONALI ### -->
+<!--ul class="nav second-nav menu-tennis hide livescore">
+	    <span>Tennis:</span>
+        <li id="nav_testatina" style="margin-top: -2px; margin-right: 3px;"><img src="/static/speciale/2017/internazionali-d-italia/images/internazionali2017.jpg" /></li>     
+        <li id="nav_percorso"><a href="http://www.repubblica.it/sport/tennis/2017/05/11/news/internazionali_di_tennis_2017_il_tabellone_maschile-165191376/">Tabellone uomini</a></li>
+        <li id="nav_percorso"><a href="http://www.repubblica.it/sport/tennis/2017/05/11/news/il_tabellone_femminile-165186409/">Tabellone donne</a></li>
+        <li id="nav_percorso"><a href="http://www.repubblica.it/sport/tennis/2017/05/11/news/l_albo_d_oro_maschile_degli_internazionali_d_italia-165179905/">L'albo d'oro uomini</a></li>
+        <li id="nav_percorso"><a href="http://www.repubblica.it/sport/tennis/2017/05/11/news/l_albo_d_oro_femminile_degli_internazionali_d_italia-165179532/">L'albo d'oro donne</a></li>
+</ul-->
+
+
+<!-- GIRO D'ITALIA 2017-->
+<!--ul class="nav second-nav menu-ciclismo hide livescore">
+        <li style="margin: -5px 5px 0 0;"><img src="http://www.repubblica.it/static/speciali/sport/giro-d-italia/2017/images/giro-italia.png" /></li>
+        <li><a href="http://www.repubblica.it/sport/ciclismo/2017/04/11/news/giro_2017_-_il_calendario-162738723/">Calendario</a></li>
+        <li><a href="http://www.repubblica.it/sport/ciclismo/2017/04/12/news/giro_2017_-_le_squadre-162809488/">Squadre</a></li>
+        <li><a href="http://www.repubblica.it/sport/ciclismo/2017/04/12/news/giro_2017_-_le_maglie-162798042/">Maglie</a></li>
+        <li><a href="http://www.repubblica.it/sport/ciclismo/2017/04/12/news/giro_2017_-_l_albo_d_oro-162797013/">Albo d'oro</a></li>
+        <li><a href="http://www.repubblica.it/sport/ciclismo/2017/04/12/news/giro_2017_-_classifica_generale-162795669/">Classifica</a></li>
+        <li><a href="http://www.repubblica.it/sport/ciclismo/2017/04/12/news/giro_2017_-_la_storia-162799320/">Storia</a></li>
+</ul-->
+<!-- FINE GIRO D'ITALIA 2017 -->
+
+<!-- TOUR DE FRANCE 2017-->
+<ul class="nav second-nav menu-ciclismo hide livescore">
+        <li style="margin: -5px 0 0 0;"><img src="http://www.repubblica.it/static/speciali/sport/tour-de-france/2017/images/tour-de-france.jpg" /></li>
+        <li><a href="http://www.repubblica.it/sport/ciclismo/2017/06/26/news/tour_2017_il_calendario-167724339/">Calendario</a></li>
+        <li><a href="http://www.repubblica.it/sport/ciclismo/2017/06/26/news/tour_2107_le_squadre-168003085/">Squadre</a></li>
+        <li><a href="http://www.repubblica.it/sport/ciclismo/2017/06/26/news/tour_2017_le_maglie-168003934/">Maglie</a></li>
+        <li><a href="http://www.repubblica.it/sport/ciclismo/2017/06/26/news/tour_2017_l_albo_d_oro-167721602/">Albo d'oro</a></li>
+        <li><a href="http://www.repubblica.it/sport/ciclismo/2017/06/26/news/tour_2017_la_classifica-167727460/">Classifica</a></li>
+        <li><a href="http://www.repubblica.it/sport/ciclismo/2017/06/26/news/tour_2017_la_mappa-168005560/">Mappa</a></li>
+</ul>
+<!-- FINE TOUR DE FRANCE 2017 -->
+
+
+<ul class="nav second-nav menu-vela hide livescore">
+		<li id="nav_testatina" style="margin-top: -2px; margin-right: 5px; border:0px;"><a href="http://www.repubblica.it/sport/americas-cup/" style="border:none; background-color:#FFF" ><img src="http://www.repubblica.it/static/images/sport/2013/americas-cup-napoli.jpg" /></a></li>     
+		<li id="nav_percorso"><a href="http://www.repubblica.it/sport/americas-cup/2013/04/11/news/america_s_cup_napoli_2013_il_percorso-56449268/">Il percorso</a></li>
+		<li id="nav_calendario"><a href="http://www.repubblica.it/sport/americas-cup/2013/04/11/news/america_s_cup_napoli_2013_calendario_e_risultati_race-56449212/">Calendario e risultati</a></li>
+  		<li id="nav_race"><a href="http://www.repubblica.it/sport/americas-cup/2013/04/11/news/america_s_cup_napoli_2013_calendario_match_race-56449206/">Match race</a></li>
+  		<li id="nav_vocabolario"><a href="http://www.repubblica.it/sport/americas-cup/2013/04/15/news/le_parole_delle_regate_da_alette_a_virata-56672986/">Vocabolario</a></li>
+</ul>
+
+
+
+
+<!-- testata Speciale mondiali rugby 2015-->
+<!--
+
+<ul class="nav second-nav menu-rugby speciale-mondiali-rugby hide"> 
+    <li class="has-submenu no"><a href="http://www.repubblica.it/sport/rugby/">Copertina</a></li>
+    <li class="has-submenu no"><a href="/static/speciale/2015/rugby-mondiali/calendario_playoff.html">Calendario e risultati</a></li>
+    <li class="has-submenu"><a href="">Classifica gironi<span class="menu-arrow"></span></a>
+        <div class="submenu">
+            <ul>
+                <li><a href="/static/speciale/2015/rugby-mondiali/girone-a.html">Girone A</a></li>
+                <li><a href="/static/speciale/2015/rugby-mondiali/girone-b.html">Girone B</a></li>
+                <li><a href="/static/speciale/2015/rugby-mondiali/girone-c.html">Girone C</a></li>
+                <li class="last"><a href="/static/speciale/2015/rugby-mondiali/girone-d.html">Girone D</a></li></ul>       
+        </div>
+    </li>
+    <li class="has-submenu no"><a href="/static/speciale/2015/rugby-mondiali/albo.html">L'albo d'oro</a></li>
+</ul>
+<ul class="nav second-nav menu-dirette-sportive hide">
+ <li id="nav_diretta-calcio"><a href="http://dirette.sport.repubblica.it/listadirette/calcio/">Dirette Calcio&nbsp;</a></li>
+ <li id="nav_diretta-tennis"><a href="http://dirette.sport.repubblica.it/listadirette/tennis/">Dirette Tennis&nbsp;</a></li>
+ <li id="nav_diretta-rugby"><a href="http://dirette.sport.repubblica.it/listadirette/rugby/">Dirette Rugby&nbsp;</a></li>
+ <li id="nav_diretta-basket"><a href="http://dirette.sport.repubblica.it/listadirette/basket/">Dirette Basket&nbsp;</a></li>
+ <li id="nav_diretta-volley"><a href="http://dirette.sport.repubblica.it/listadirette/volley/">Dirette Volley&nbsp;</a></li>
+ <li id="nav_diretta-formula1"><a href="http://dirette.sport.repubblica.it/listadirette/formula1/">Dirette Formula 1&nbsp;</a></li>
+ <li id="nav_diretta-moto"><a href="http://dirette.sport.repubblica.it/listadirette/moto/">Dirette Moto Gp&nbsp;</a></li>
+</ul>
+-->
+
+<!-- testata mondiali rugby 2016 Speciale-->
+<!--ul class="nav second-nav menu-rugby hide livescore"> 
+	<span>Rugby:</span>
+	 <li id="nav_testatina" style="margin-top: -2px;"><img src="/static/speciale/2017/rugby-sei-nazioni/img/testata-2017-small.jpg"></li>
+	 <li id="nav_percorso"><a href="http://www.repubblica.it/sport/rugby/2017/01/24/news/6_nazioni_2017_calendario_e_risultati-156783741/">Calendario</a></li>
+	 <li id="nav_percorso"><a href="http://www.repubblica.it/sport/rugby/2017/01/29/news/6_nazioni_2017_la_classifica-157142807/">Classifica</a></li>
+	 <li id="nav_percorso"><a href="http://www.repubblica.it/sport/rugby/2017/01/29/news/6_nazioni_2017_i_ruoli-157143706/">Ruoli</a></li>
+	 <li id="nav_percorso"><a href="http://www.repubblica.it/sport/rugby/2017/01/28/news/6_nazioni_2017_gli_azzurri-157074912/">Azzurri</a></li>
+	 <li id="nav_percorso"><a href="http://www.repubblica.it/sport/rugby/2017/01/29/news/6_nazioni_2017_gli_impianti-157143938/">Impianti</a></li>
+	 <li id="nav_percorso"><a href="http://www.repubblica.it/sport/rugby/2017/01/24/news/6_nazioni_2017_l_albo_d_oro-156785051/">Albo</a></li>	 
+   <li id="nav_percorso"><a href="http://dirette.sport.repubblica.it/listadirette/rugby/">Dirette e Risultati</a></li>
+</ul-->
+
+
+<!-- testata mondiali rugby 2015 commentare quando ci sono gli speciali-->
+
+<!--ul class="nav second-nav menu-rugby hide livescore"> 
+	<span>Rugby:</span>
+  <li id="nav_percorso"><a href="http://dirette.sport.repubblica.it/listadirette/rugby/">Dirette e Risultati</a></li>
+</ul-->
+
+
+
+<!-- testata Volley-->
+
+<ul class="nav second-nav menu-volley hide volley livescore"> 
+	<span>Volley:</span>
+  <li id="nav_percorso"><a href="http://www.repubblica.it/sport/dirette/listadirette/volley/">Dirette e Risultati</a></li>
+</ul>
+
+
+
+
+
+<!-- testata LIVESCORE-->
+
+<ul class="nav second-nav menu-dirette-sportive livescore hide">
+ <li id="nav_diretta-calcio"><a href="http://www.repubblica.it/sport/dirette/listadirette/calcio/">Dirette Calcio&nbsp;</a></li>
+ <li id="nav_diretta-tennis"><a href="http://www.repubblica.it/sport/dirette/listadirette/tennis/">Dirette Tennis&nbsp;</a></li>
+ <li id="nav_diretta-rugby"><a href="http://www.repubblica.it/sport/dirette/listadirette/rugby/">Dirette Rugby&nbsp;</a></li>
+ <li id="nav_diretta-basket"><a href="http://www.repubblica.it/sport/dirette/listadirette/basket/">Dirette Basket&nbsp;</a></li>
+ <li id="nav_diretta-volley"><a href="http://www.repubblica.it/sport/dirette/listadirette/volley/">Dirette Volley&nbsp;</a></li>
+ <li id="nav_diretta-formula1"><a href="http://www.repubblica.it/sport/dirette/listadirette/formula1/">Dirette Formula 1&nbsp;</a></li>
+ <li id="nav_diretta-moto"><a href="http://www.repubblica.it/sport/dirette/listadirette/moto/">Dirette Moto Gp&nbsp;</a></li>
+</ul>
+
+
+
+<!-- NAVIGAZIONE VOCI LIVESCORE -->
+
+<!-- Serie A -->
+ <ul class="submenu submenu-seriea hide livescore">
+	        <span>Serie A:</span>
+	        <li id="nav_dirette-seriea"><a href="http://www.repubblica.it/sport/dirette/listadirette/calcio/italia/serie-a/A">Dirette e Risultati</a></li>
+	        <li id="nav_calendario-seriea"><a href="http://www.repubblica.it/sport/dirette/calendario/calcio/italia/serie-a/A">Calendario</a></li>
+	        <li id="nav_classifica-seriea"><a href="http://www.repubblica.it/sport/dirette/classifica/calcio/italia/serie-a/A">Classifica</a></li> 
+	        <li id="nav_marcatori-seriea"><a href="http://www.repubblica.it/sport/dirette/marcatori/calcio/italia/serie-a/A">Marcatori</a></li>
+            
+			 
+</ul>
+
+<!-- Serie B -->
+<ul class="submenu submenu-serieb hide livescore">
+            <span>Serie B:</span>
+            <li id="nav_dirette-serieb"><a href="http://www.repubblica.it/sport/dirette/listadirette/calcio/italia/serie-b/B">Dirette e Risultati</a></li> 
+            <li id="nav_calendario-serieb"><a href="http://www.repubblica.it/sport/dirette/calendario/calcio/italia/serie-b/B">Calendario</a></li>
+            <li id="nav_classifica-serieb"><a href="http://www.repubblica.it/sport/dirette/classifica/calcio/italia/serie-b/B">Classifica</a></li> 
+             
+                                            
+</ul>
+
+<!-- Lega Pro -->
+<ul class="submenu submenu-legapro hide livescore">
+			<span>Lega PRO:</span>
+			<li id="nav_c1a"><a href="http://www.repubblica.it/sport/dirette/calendario/calcio/italia/lega-pro/mondo-ITA_LEGPGA">Girone A</a></li>
+			<li id="nav_c1b"><a href="http://www.repubblica.it/sport/dirette/calendario/calcio/italia/lega-pro/mondo-ITA_LEGPGB">Girone B</a></li>
+			<li id="nav_c2a"><a href="http://www.repubblica.it/sport/dirette/calendario/calcio/italia/lega-pro/mondo-ITA_LEGPGC">Girone C</a></li>
+			
+			
+			  
+				                                  
+</ul>
+
+<!-- Champions -->
+<ul class="submenu submenu-champions hide livescore">
+	 		<span>Champions League:</span>
+	 		<li id="nav_dirette-champions"><a href="http://www.repubblica.it/sport/dirette/calendario/calcio/internazionale/champions-league/C/1/">Dirette e Risultati</a></li>
+            <li id="nav_classifica-champions"><a href="http://www.repubblica.it/sport/dirette/classifica/calcio/internazionale/champions-league/C">Classifica</a></li>
+            <li id="nav_calendario-champions"><a href="http://www.repubblica.it/sport/dirette/calendario/calcio/internazionale/champions-league/C">Calendario</a></li>
+            <li id="nav_calendario-champions"><a href="http://www.repubblica.it/static/sport/calcio/champions/albo-doro.html">Albo d'oro</a></li>
+            
+                      
+</ul>
+
+
+
+
+
+<!-- Europa League -->
+<ul class="submenu submenu-coppe hide livescore"> 	
+            <span>Europa League:</span> 
+            <li id="nav_dirette-champions"><a href="http://www.repubblica.it/sport/dirette/listadirette/calcio/internazionale/europa-league/UE">Dirette e Risultati</a></li>
+            <li id="nav_classificaue"><a href="http://www.repubblica.it/sport/dirette/classifica/calcio/internazionale/europa-league/UE">Classifica</a></li> 
+            <li id="nav_calendarioue"><a href="http://www.repubblica.it/sport/dirette/calendario/calcio/internazionale/europa-league/UE">Calendario</a></li>                     
+</ul>
+
+<!-- Coppe -->
+<!--
+<ul class="submenu submenu-coppe hide livescore">
+            <li id="nav_classifica-coppe"><a href="http://sport.repubblica.it/classifica/UE">Classifica</a></li>
+            <li id="nav_calendario-coppe"><a href="http://sport.repubblica.it/calendario/UE">Calendario</a></li>
+            <li id="nav_dirette-coppe"><a href="http://dirette.sport.repubblica.it/listadirette/UE">Dirette e Risultati</a></li>           
+            
+</ul>
+-->
+
+<!-- Nazionale -->
+<ul class="submenu submenu-nazionale hide livescore">
+            <span>Nazionale:</span>  
+            <li id="nav_qualificazioni-europee"><a href="http://www.repubblica.it/sport/dirette/calendario/calcio/internazionale/qualificazioni-mondiali/QM">Qualificazioni mondiali</a></li>
+			<li id="nav_classifica-qe"><a href="http://www.repubblica.it/sport/dirette/classifica/calcio/internazionale/qualificazioni-mondiali/QM">Classifica</a></li>
+            
+            
+            <!--li id="nav_calendario-qe"><a href="http://sport.repubblica.it/calendario/QE">Calendario</a></li>
+            <li id="nav_classifica-qm"><a href="http://sport.repubblica.it/classifica/QM">Classifica</a></li>
+            <li id="nav_calendario-qm"><a href="http://sport.repubblica.it/calendario/QM">Calendario</a></li-->
+
+            <!--li id="nav_calendario-qm"><a href="http://www.repubblica.it/sport/2013/11/29/news/sorteggio_mondiali_brasile_2014-72265119/">Calendario Mondiali</a></li-->
+         <!--
+            <li id="nav_calendario-cc"><a href="http://sport.repubblica.it/calendario/CC">Calendario</a></li>
+            <li id="nav_classifica-cc"><a href="http://sport.repubblica.it/classifica/CC">Classifica</a></li>
+            <li id="nav_dirette-cc"><a href="http://dirette.sport.repubblica.it/listadirette/CC">Risultati</a></li>
+    -->
+</ul>
+
+<!-- Esteri -->
+<ul class="submenu submenu-esteri hide livescore">
+<span>Esteri:</span>
+<li id="nav_esteri"><a href="http://www.repubblica.it/sport/dirette/listadirette/">Dirette e Risultati</a></li>
+</ul>
+
+
+
+
+
+
+			</nav>
+           
+
+            <div class="adv adv-topleft adv-strip"><script type="text/javascript">OAS_RICH('TopLeft');</script></div>
+        </header>
+        <!--FINE HEADER-->
+        
+<!-- end $headersite -->
+
+
+
+		 
+        <nav role="navigation">
+			<div class="utility">
+ <ul class="breadcrumb">
+ <li>Sei in:</li>									<li itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><a href="http://www.repubblica.it/sport/" title="Home" itemprop="url">Home</a> &gt; </li>
+			 
+								 	<li itemscope="child" itemtype="http://data-vocabulary.org/Breadcrumb"><span itemprop="title">Livescore</span> &gt; </li>
+			 
+									<li itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><a href="http://www.repubblica.it/sport/dirette/listadirette/calcio" title="Dirette Calcio" itemprop="url">Dirette Calcio</a> &gt; </li>
+			 
+								 	<li itemscope="child" itemtype="http://data-vocabulary.org/Breadcrumb"><span itemprop="title">Lista Dirette</span></li>
+			 
+		 </ul>
+</div>        </nav>
+        
+                
+    	<div id="main" role="main">
+        	<div id="share-top"></div>            <h1 class="section">calcio da tutto il mondo<br /></h1>
+<p class="ls-date"><span>Aggiornato al&nbsp;<time datetime="2017-07-10CEST19:177200">10/07/2017, 19.17</time></p>
+	<a href="http://www.repubblica.it/sport/dirette/listadirette/calcio/" class="button ls-refresh">Aggiorna</a>
+	<section class="live-calcio">
+		<header>
+<h1 class="live calcio">Oggi</h1>
+    <div class="links-header">
+	<a href="http://www.repubblica.it/sport/dirette/listadirette/calcio/in-corso" class="button over">In corso</a>
+			<a href="http://www.repubblica.it/sport/dirette/listadirette/calcio/programmate" class="button over">In programma</a>
+			<a href="http://www.repubblica.it/sport/dirette/listadirette/calcio/concluse" class="button over">Conclusi</a>	
+    </div>
+
+		</header>
+
+								<div class="nation-name">
+			<img alt="Internazionale flag" src="https://www.repstatic.it/cless/main/sport-dati/2016/images/flag/int.gif" class="flag">
+			<h2>Internazionale</h2>	
+		</div>
+		
+		<div class="dirette-nation">
+	     									     <span class="division-nation-name">Club Amichevoli</span>
+			<div class="divisions-nation">
+				<table width="655" border="0" cellpadding="0" cellspacing="0">
+																	  		<tr>
+				    		<td width="40" 
+   class="ls-match-ended"
+><time>16:00</time></td>
+				    		<td width="213" class="ls-team first">
+				    			<span><a href="http://www.repubblica.it/sport/dirette/diretta/calcio/internazionale/club-amichevoli/INT_CLUF/dinamo_mosca-arsenal_tula/mondo-852799" title="diretta della partita">Dinamo Mosca</a></span>
+				    		</td>
+				    						    			<td class="ls-score" width="52"><span>1</span></td>
+				   				<td class="ls-score" width="52"><span>1</span></td>
+											    		<td width="213" class="ls-team">
+				    			<span><a href="http://www.repubblica.it/sport/dirette/diretta/calcio/internazionale/club-amichevoli/INT_CLUF/dinamo_mosca-arsenal_tula/mondo-852799" title="diretta della partita">Arsenal Tula</a></span>
+				    		</td>
+							
+				    			<td width="55" title="diretta della partita"><a href="http://www.repubblica.it/sport/dirette/diretta/calcio/internazionale/club-amichevoli/INT_CLUF/dinamo_mosca-arsenal_tula/mondo-852799" class="ls-ended">Live</a></td>
+							
+				  		</tr>
+									  		<tr>
+				    		<td width="40" 
+  class="ls-match-hour" 
+><time>18:30</time></td>
+				    		<td width="213" class="ls-team first">
+				    			<span><a href="http://www.repubblica.it/sport/dirette/diretta/calcio/internazionale/club-amichevoli/INT_CLUF/ac_horsens-brabrand/mondo-832716" title="diretta della partita">AC Horsens</a></span>
+				    		</td>
+				    						    			<td class="ls-score" width="52"><span>3</span></td>
+				   				<td class="ls-score" width="52"><span>1</span></td>
+											    		<td width="213" class="ls-team">
+				    			<span><a href="http://www.repubblica.it/sport/dirette/diretta/calcio/internazionale/club-amichevoli/INT_CLUF/ac_horsens-brabrand/mondo-832716" title="diretta della partita">Brabrand</a></span>
+				    		</td>
+							
+				    			<td width="55" title="diretta della partita"><a href="http://www.repubblica.it/sport/dirette/diretta/calcio/internazionale/club-amichevoli/INT_CLUF/ac_horsens-brabrand/mondo-832716" class="ls-live">Live</a></td>
+							
+				  		</tr>
+									  		<tr>
+				    		<td width="40" 
+ class="ls-match-scheduled"  
+><time>19:30</time></td>
+				    		<td width="213" class="ls-team first">
+				    			<span>Serooskerke</span>
+				    		</td>
+				    						    		<td class="ls-score" width="52"><span>-</span></td>
+				   			<td class="ls-score" width="52"><span>-</span></td>
+				   							    		<td width="213" class="ls-team">
+				    			<span>ADO Den Haag</span>
+				    		</td>
+							
+				    			<td width="55" title="diretta della partita"></td>
+							
+				  		</tr>
+																	  	<tr class="last">
+				    	<td colspan="6">
+																									</td>
+				  	</tr>
+				</table>
+			</div>
+			
+	    </div>
+
+<!--tutto il resto -->
+		<div class="nation-name">
+			<img alt="Argentina flag" src="https://www.repstatic.it/cless/main/sport-dati/2016/images/flag/ar.gif" class="flag">
+			<h2>Argentina</h2>	
+		</div>
+		
+		<div class="dirette-nation">
+			        			
+				
+
+									     <span class="division-nation-name">Primera B Metropolitana Promotion Playoff</span>
+			<div class="divisions-nation">
+				<table width="655" border="0" cellpadding="0" cellspacing="0">
+												  		<tr>
+				    		<td width="40"
+
+   class="ls-match-ended"
+><time>01:05</time></td>
+				    		<td width="213" class="ls-team first">
+				    			<span><a href="http://www.repubblica.it/sport/dirette/diretta/calcio/argentina/primera-b-metropolitana-promotion-playoff/ARG_PRIBMPP/deportivo_espanol-deportivo_riestra/mondo-850094" title="diretta della partita">Deportivo Espanol</a></span>
+				    		</td>
+				    						    		<td class="ls-score" width="52"><span>0</span></td>
+				   			<td class="ls-score" width="52"><span>2</span></td>
+											    		<td width="213" class="ls-team">
+				    			<span><a href="http://www.repubblica.it/sport/dirette/diretta/calcio/argentina/primera-b-metropolitana-promotion-playoff/ARG_PRIBMPP/deportivo_espanol-deportivo_riestra/mondo-850094" title="diretta della partita">Deportivo Riestra</a></span>
+				    		</td>
+							
+				    		<td width="55" title="diretta della partita"><a href="http://www.repubblica.it/sport/dirette/diretta/calcio/argentina/primera-b-metropolitana-promotion-playoff/ARG_PRIBMPP/deportivo_espanol-deportivo_riestra/mondo-850094" class="ls-ended">Live</a></td>
+						
+				  		</tr>
+													  	<tr class="last">
+				    	<td colspan="6">
+																										</td>
+				  	</tr>
+				</table>
+			</div>
+			
+	    </div>
+		<div class="nation-name">
+			<img alt="Australia flag" src="https://www.repstatic.it/cless/main/sport-dati/2016/images/flag/au.gif" class="flag">
+			<h2>Australia</h2>	
+		</div>
+		
+		<div class="dirette-nation">
+			        			
+				
+
+			
+																			
+															<span class="division-nation-name">NPL Youth Victoria</span>
+					<div class="divisions-nation">
+					<table width="655" border="0" cellpadding="0" cellspacing="0">
+									  		<tr>
+				    		<td width="40"
+   class="ls-match-ended"
+><time>10:30</time></td>
+				    		<td width="213" class="ls-team first">
+				    			<span>Bulleen Lions U20</span>
+				    		</td>
+				    						    		<td class="ls-score" width="52"><span>3</span></td>
+				   			<td class="ls-score" width="52"><span>1</span></td>
+											    		<td width="213" class="ls-team">
+				    			<span>Bentleigh Greens U20</span>
+				    		</td>
+							
+				    		<td width="55" title="diretta della partita"></td>
+							
+				  		</tr>
+									  	<tr class="last">
+				    	<td colspan="6">
+																											<a class="ls-chart-link test6" href="http://www.repubblica.it/sport/dirette/classifica/calcio/australia/npl-youth-victoria/mondo-AUS_NPLYV">classifica</a>   <a class="ls-calendar-link" href="http://www.repubblica.it/sport/dirette/calendario/calcio/australia/npl-youth-victoria/mondo-AUS_NPLYV">calendario</a>
+													
+</td>
+				  	</tr>
+					</table>
+					</div>
+																									
+															<span class="division-nation-name">Victorian</span>
+					<div class="divisions-nation">
+					<table width="655" border="0" cellpadding="0" cellspacing="0">
+									  		<tr>
+				    		<td width="40"
+   class="ls-match-ended"
+><time>12:30</time></td>
+				    		<td width="213" class="ls-team first">
+				    			<span>Bulleen Lions</span>
+				    		</td>
+				    						    		<td class="ls-score" width="52"><span>0</span></td>
+				   			<td class="ls-score" width="52"><span>2</span></td>
+											    		<td width="213" class="ls-team">
+				    			<span>Bentleigh Greens</span>
+				    		</td>
+							
+				    		<td width="55" title="diretta della partita"></td>
+							
+				  		</tr>
+									  	<tr class="last">
+				    	<td colspan="6">
+																											<a class="ls-chart-link test6" href="http://www.repubblica.it/sport/dirette/classifica/calcio/australia/victorian/mondo-AUS_VIC">classifica</a>   <a class="ls-calendar-link" href="http://www.repubblica.it/sport/dirette/calendario/calcio/australia/victorian/mondo-AUS_VIC">calendario</a>
+													
+</td>
+				  	</tr>
+					</table>
+					</div>
+												
+	    </div>
+		<div class="nation-name">
+			<img alt="Brasile flag" src="https://www.repstatic.it/cless/main/sport-dati/2016/images/flag/br.gif" class="flag">
+			<h2>Brasile</h2>	
+		</div>
+		
+		<div class="dirette-nation">
+			        			
+				
+
+									     <span class="division-nation-name">Serie A</span>
+			<div class="divisions-nation">
+				<table width="655" border="0" cellpadding="0" cellspacing="0">
+																	  		<tr>
+				    		<td width="40"
+   class="ls-match-ended"
+><time>00:00</time></td>
+				    		<td width="213" class="ls-team first">
+				    			<span><a href="http://www.repubblica.it/sport/dirette/diretta/calcio/brasile/serie-a/BRA_SERA/botafogo_rj-atletico_mg/mondo-783474" title="diretta della partita">Botafogo RJ</a></span>
+				    		</td>
+				    						    			<td class="ls-score" width="52"><span>1</span></td>
+				   				<td class="ls-score" width="52"><span>1</span></td>
+											    		<td width="213" class="ls-team">
+				    			<span><a href="http://www.repubblica.it/sport/dirette/diretta/calcio/brasile/serie-a/BRA_SERA/botafogo_rj-atletico_mg/mondo-783474" title="diretta della partita">Atletico MG</a></span>
+				    		</td>
+							
+				    			<td width="55" title="diretta della partita"><a href="http://www.repubblica.it/sport/dirette/diretta/calcio/brasile/serie-a/BRA_SERA/botafogo_rj-atletico_mg/mondo-783474" class="ls-ended">Live</a></td>
+							
+				  		</tr>
+									  		<tr>
+				    		<td width="40"
+   class="ls-match-ended"
+><time>00:00</time></td>
+				    		<td width="213" class="ls-team first">
+				    			<span><a href="http://www.repubblica.it/sport/dirette/diretta/calcio/brasile/serie-a/BRA_SERA/santos_fc-sao_paulo/mondo-783476" title="diretta della partita">Santos FC</a></span>
+				    		</td>
+				    						    			<td class="ls-score" width="52"><span>3</span></td>
+				   				<td class="ls-score" width="52"><span>2</span></td>
+											    		<td width="213" class="ls-team">
+				    			<span><a href="http://www.repubblica.it/sport/dirette/diretta/calcio/brasile/serie-a/BRA_SERA/santos_fc-sao_paulo/mondo-783476" title="diretta della partita">Sao Paulo</a></span>
+				    		</td>
+							
+				    			<td width="55" title="diretta della partita"><a href="http://www.repubblica.it/sport/dirette/diretta/calcio/brasile/serie-a/BRA_SERA/santos_fc-sao_paulo/mondo-783476" class="ls-ended">Live</a></td>
+							
+				  		</tr>
+																	  	<tr class="last">
+				    	<td colspan="6">
+																											<a class="ls-chart-link test8" href="http://www.repubblica.it/sport/dirette/classifica/calcio/brasile/serie-a/mondo-BRA_SERA">classifica</a>   <a class="ls-calendar-link" href="http://www.repubblica.it/sport/dirette/calendario/calcio/brasile/serie-a/mondo-BRA_SERA">calendario</a>
+													</td>
+				  	</tr>
+				</table>
+			</div>
+			
+	    </div>
+		<div class="nation-name">
+			<img alt="Colombia flag" src="https://www.repstatic.it/cless/main/sport-dati/2016/images/flag/co.gif" class="flag">
+			<h2>Colombia</h2>	
+		</div>
+		
+		<div class="dirette-nation">
+			        			
+				
+
+									     <span class="division-nation-name">Primera A Clausura</span>
+			<div class="divisions-nation">
+				<table width="655" border="0" cellpadding="0" cellspacing="0">
+																	  		<tr>
+				    		<td width="40"
+   class="ls-match-ended"
+><time>00:15</time></td>
+				    		<td width="213" class="ls-team first">
+				    			<span><a href="http://www.repubblica.it/sport/dirette/diretta/calcio/colombia/primera-a-clausura/COL_PRIAC/atletico_junior-la_equidad/mondo-835744" title="diretta della partita">Atletico Junior</a></span>
+				    		</td>
+				    						    			<td class="ls-score" width="52"><span>3</span></td>
+				   				<td class="ls-score" width="52"><span>0</span></td>
+											    		<td width="213" class="ls-team">
+				    			<span><a href="http://www.repubblica.it/sport/dirette/diretta/calcio/colombia/primera-a-clausura/COL_PRIAC/atletico_junior-la_equidad/mondo-835744" title="diretta della partita">La Equidad</a></span>
+				    		</td>
+							
+				    			<td width="55" title="diretta della partita"><a href="http://www.repubblica.it/sport/dirette/diretta/calcio/colombia/primera-a-clausura/COL_PRIAC/atletico_junior-la_equidad/mondo-835744" class="ls-ended">Live</a></td>
+							
+				  		</tr>
+									  		<tr>
+				    		<td width="40"
+   class="ls-match-ended"
+><time>00:30</time></td>
+				    		<td width="213" class="ls-team first">
+				    			<span><a href="http://www.repubblica.it/sport/dirette/diretta/calcio/colombia/primera-a-clausura/COL_PRIAC/rionegro_aguilas-america_de_cali/mondo-835746" title="diretta della partita">Rionegro Aguilas</a></span>
+				    		</td>
+				    						    			<td class="ls-score" width="52"><span>0</span></td>
+				   				<td class="ls-score" width="52"><span>1</span></td>
+											    		<td width="213" class="ls-team">
+				    			<span><a href="http://www.repubblica.it/sport/dirette/diretta/calcio/colombia/primera-a-clausura/COL_PRIAC/rionegro_aguilas-america_de_cali/mondo-835746" title="diretta della partita">America de Cali</a></span>
+				    		</td>
+							
+				    			<td width="55" title="diretta della partita"><a href="http://www.repubblica.it/sport/dirette/diretta/calcio/colombia/primera-a-clausura/COL_PRIAC/rionegro_aguilas-america_de_cali/mondo-835746" class="ls-ended">Live</a></td>
+							
+				  		</tr>
+									  		<tr>
+				    		<td width="40"
+   class="ls-match-ended"
+><time>02:30</time></td>
+				    		<td width="213" class="ls-team first">
+				    			<span><a href="http://www.repubblica.it/sport/dirette/diretta/calcio/colombia/primera-a-clausura/COL_PRIAC/santa_fe-atletico_nacional/mondo-835748" title="diretta della partita">Santa Fe</a></span>
+				    		</td>
+				    						    			<td class="ls-score" width="52"><span>1</span></td>
+				   				<td class="ls-score" width="52"><span>0</span></td>
+											    		<td width="213" class="ls-team">
+				    			<span><a href="http://www.repubblica.it/sport/dirette/diretta/calcio/colombia/primera-a-clausura/COL_PRIAC/santa_fe-atletico_nacional/mondo-835748" title="diretta della partita">Atletico Nacional</a></span>
+				    		</td>
+							
+				    			<td width="55" title="diretta della partita"><a href="http://www.repubblica.it/sport/dirette/diretta/calcio/colombia/primera-a-clausura/COL_PRIAC/santa_fe-atletico_nacional/mondo-835748" class="ls-ended">Live</a></td>
+							
+				  		</tr>
+																	  	<tr class="last">
+				    	<td colspan="6">
+																											<a class="ls-chart-link test8" href="http://www.repubblica.it/sport/dirette/classifica/calcio/colombia/primera-a-clausura/mondo-COL_PRIAC">classifica</a>   <a class="ls-calendar-link" href="http://www.repubblica.it/sport/dirette/calendario/calcio/colombia/primera-a-clausura/mondo-COL_PRIAC">calendario</a>
+													</td>
+				  	</tr>
+				</table>
+			</div>
+			
+	    </div>
+		<div class="nation-name">
+			<img alt="Corea del Sud flag" src="https://www.repstatic.it/cless/main/sport-dati/2016/images/flag/kr.gif" class="flag">
+			<h2>Corea del Sud</h2>	
+		</div>
+		
+		<div class="dirette-nation">
+			        			
+				
+
+									     <span class="division-nation-name">K. League Challenge</span>
+			<div class="divisions-nation">
+				<table width="655" border="0" cellpadding="0" cellspacing="0">
+																	  		<tr>
+				    		<td width="40"
+   class="ls-match-ended"
+><time>12:00</time></td>
+				    		<td width="213" class="ls-team first">
+				    			<span><a href="http://www.repubblica.it/sport/dirette/diretta/calcio/corea-del-sud/k-league-challenge/SOU_K.LC/gyeongnam_fc-fc_anyang/mondo-764541" title="diretta della partita">Gyeongnam FC</a></span>
+				    		</td>
+				    						    			<td class="ls-score" width="52"><span>0</span></td>
+				   				<td class="ls-score" width="52"><span>1</span></td>
+											    		<td width="213" class="ls-team">
+				    			<span><a href="http://www.repubblica.it/sport/dirette/diretta/calcio/corea-del-sud/k-league-challenge/SOU_K.LC/gyeongnam_fc-fc_anyang/mondo-764541" title="diretta della partita">FC Anyang</a></span>
+				    		</td>
+							
+				    			<td width="55" title="diretta della partita"><a href="http://www.repubblica.it/sport/dirette/diretta/calcio/corea-del-sud/k-league-challenge/SOU_K.LC/gyeongnam_fc-fc_anyang/mondo-764541" class="ls-ended">Live</a></td>
+							
+				  		</tr>
+									  		<tr>
+				    		<td width="40"
+   class="ls-match-ended"
+><time>12:30</time></td>
+				    		<td width="213" class="ls-team first">
+				    			<span><a href="http://www.repubblica.it/sport/dirette/diretta/calcio/corea-del-sud/k-league-challenge/SOU_K.LC/suwon_city-busan_ipark/mondo-764542" title="diretta della partita">Suwon City</a></span>
+				    		</td>
+				    						    			<td class="ls-score" width="52"><span>1</span></td>
+				   				<td class="ls-score" width="52"><span>0</span></td>
+											    		<td width="213" class="ls-team">
+				    			<span><a href="http://www.repubblica.it/sport/dirette/diretta/calcio/corea-del-sud/k-league-challenge/SOU_K.LC/suwon_city-busan_ipark/mondo-764542" title="diretta della partita">Busan I'Park</a></span>
+				    		</td>
+							
+				    			<td width="55" title="diretta della partita"><a href="http://www.repubblica.it/sport/dirette/diretta/calcio/corea-del-sud/k-league-challenge/SOU_K.LC/suwon_city-busan_ipark/mondo-764542" class="ls-ended">Live</a></td>
+							
+				  		</tr>
+																	  	<tr class="last">
+				    	<td colspan="6">
+																											<a class="ls-chart-link test8" href="http://www.repubblica.it/sport/dirette/classifica/calcio/corea-del-sud/k-league-challenge/mondo-SOU_K.LC">classifica</a>   <a class="ls-calendar-link" href="http://www.repubblica.it/sport/dirette/calendario/calcio/corea-del-sud/k-league-challenge/mondo-SOU_K.LC">calendario</a>
+													</td>
+				  	</tr>
+				</table>
+			</div>
+			
+	    </div>
+		<div class="nation-name">
+			<img alt="Egitto flag" src="https://www.repstatic.it/cless/main/sport-dati/2016/images/flag/eg.gif" class="flag">
+			<h2>Egitto</h2>	
+		</div>
+		
+		<div class="dirette-nation">
+			        			
+				
+
+									     <span class="division-nation-name">1ª Divisione</span>
+			<div class="divisions-nation">
+				<table width="655" border="0" cellpadding="0" cellspacing="0">
+																	  		<tr>
+				    		<td width="40"
+   class="ls-match-ended"
+><time>17:00</time></td>
+				    		<td width="213" class="ls-team first">
+				    			<span><a href="http://www.repubblica.it/sport/dirette/diretta/calcio/egitto/1-divisione/EGY_PREL/al_ittihad_al_sakandary-ismaily_sc/mondo-832823" title="diretta della partita">Al-Ittihad Al-Sakandary</a></span>
+				    		</td>
+				    						    			<td class="ls-score" width="52"><span>0</span></td>
+				   				<td class="ls-score" width="52"><span>1</span></td>
+											    		<td width="213" class="ls-team">
+				    			<span><a href="http://www.repubblica.it/sport/dirette/diretta/calcio/egitto/1-divisione/EGY_PREL/al_ittihad_al_sakandary-ismaily_sc/mondo-832823" title="diretta della partita">Ismaily SC</a></span>
+				    		</td>
+							
+				    			<td width="55" title="diretta della partita"><a href="http://www.repubblica.it/sport/dirette/diretta/calcio/egitto/1-divisione/EGY_PREL/al_ittihad_al_sakandary-ismaily_sc/mondo-832823" class="ls-ended">Live</a></td>
+							
+				  		</tr>
+									  		<tr>
+				    		<td width="40"
+ class="ls-match-scheduled"  
+><time>20:30</time></td>
+				    		<td width="213" class="ls-team first">
+				    			<span>El Entag El Harby</span>
+				    		</td>
+				    						    		<td class="ls-score" width="52"><span>-</span></td>
+				   			<td class="ls-score" width="52"><span>-</span></td>
+				   							    		<td width="213" class="ls-team">
+				    			<span>Al Masry</span>
+				    		</td>
+							
+				    			<td width="55" title="diretta della partita"></td>
+							
+				  		</tr>
+																	  	<tr class="last">
+				    	<td colspan="6">
+																											<a class="ls-chart-link test8" href="http://www.repubblica.it/sport/dirette/classifica/calcio/egitto/1-divisione/mondo-EGY_PREL">classifica</a>   <a class="ls-calendar-link" href="http://www.repubblica.it/sport/dirette/calendario/calcio/egitto/1-divisione/mondo-EGY_PREL">calendario</a>
+													</td>
+				  	</tr>
+				</table>
+			</div>
+			
+	    </div>
+		<div class="nation-name">
+			<img alt="Indonesia flag" src="https://www.repstatic.it/cless/main/sport-dati/2016/images/flag/id.gif" class="flag">
+			<h2>Indonesia</h2>	
+		</div>
+		
+		<div class="dirette-nation">
+			        			
+				
+
+									     <span class="division-nation-name">Liga 1</span>
+			<div class="divisions-nation">
+				<table width="655" border="0" cellpadding="0" cellspacing="0">
+												  		<tr>
+				    		<td width="40"
+
+   class="ls-match-ended"
+><time>13:30</time></td>
+				    		<td width="213" class="ls-team first">
+				    			<span><a href="http://www.repubblica.it/sport/dirette/diretta/calcio/indonesia/liga-1/IND_LIG1/ps_tni-bali_united_pusam/mondo-806716" title="diretta della partita">PS TNI</a></span>
+				    		</td>
+				    						    		<td class="ls-score" width="52"><span>4</span></td>
+				   			<td class="ls-score" width="52"><span>3</span></td>
+											    		<td width="213" class="ls-team">
+				    			<span><a href="http://www.repubblica.it/sport/dirette/diretta/calcio/indonesia/liga-1/IND_LIG1/ps_tni-bali_united_pusam/mondo-806716" title="diretta della partita">Bali United Pusam</a></span>
+				    		</td>
+							
+				    		<td width="55" title="diretta della partita"><a href="http://www.repubblica.it/sport/dirette/diretta/calcio/indonesia/liga-1/IND_LIG1/ps_tni-bali_united_pusam/mondo-806716" class="ls-ended">Live</a></td>
+						
+				  		</tr>
+													  	<tr class="last">
+				    	<td colspan="6">
+																											<a class="ls-chart-link test8" href="http://www.repubblica.it/sport/dirette/classifica/calcio/indonesia/liga-1/mondo-IND_LIG1">classifica</a>   <a class="ls-calendar-link" href="http://www.repubblica.it/sport/dirette/calendario/calcio/indonesia/liga-1/mondo-IND_LIG1">calendario</a>
+													</td>
+				  	</tr>
+				</table>
+			</div>
+			
+	    </div>
+		<div class="nation-name">
+			<img alt="Internazionale flag" src="https://www.repstatic.it/cless/main/sport-dati/2016/images/flag/int.gif" class="flag">
+			<h2>Internazionale</h2>	
+		</div>
+		
+		<div class="dirette-nation">
+			        			
+				
+
+			
+																			
+															<span class="division-nation-name">CONCACAF Gold Cup - Gruppo C</span>
+					<div class="divisions-nation">
+					<table width="655" border="0" cellpadding="0" cellspacing="0">
+														  		<tr>
+				    		<td width="40"
+   class="ls-match-ended"
+><time>01:05</time></td>
+				    		<td width="213" class="ls-team first">
+				    			<span><a href="http://www.repubblica.it/sport/dirette/diretta/calcio/internazionale/concacaf-gold-cup-gruppo-c/INT_CONGCGC/curacao-giamaica/mondo-790581" title="diretta della partita">Curacao</a></span>
+				    		</td>
+				    						    		<td class="ls-score" width="52"><span>0</span></td>
+				   			<td class="ls-score" width="52"><span>2</span></td>
+											    		<td width="213" class="ls-team">
+				    			<span><a href="http://www.repubblica.it/sport/dirette/diretta/calcio/internazionale/concacaf-gold-cup-gruppo-c/INT_CONGCGC/curacao-giamaica/mondo-790581" title="diretta della partita">Giamaica</a></span>
+				    		</td>
+							
+				    		<td width="55" title="diretta della partita"><a href="http://www.repubblica.it/sport/dirette/diretta/calcio/internazionale/concacaf-gold-cup-gruppo-c/INT_CONGCGC/curacao-giamaica/mondo-790581" class="ls-ended">Live</a></td>
+							
+				  		</tr>
+									  		<tr>
+				    		<td width="40"
+   class="ls-match-ended"
+><time>03:35</time></td>
+				    		<td width="213" class="ls-team first">
+				    			<span><a href="http://www.repubblica.it/sport/dirette/diretta/calcio/internazionale/concacaf-gold-cup-gruppo-c/INT_CONGCGC/messico-el_salvador/mondo-790580" title="diretta della partita">Messico</a></span>
+				    		</td>
+				    						    		<td class="ls-score" width="52"><span>3</span></td>
+				   			<td class="ls-score" width="52"><span>1</span></td>
+											    		<td width="213" class="ls-team">
+				    			<span><a href="http://www.repubblica.it/sport/dirette/diretta/calcio/internazionale/concacaf-gold-cup-gruppo-c/INT_CONGCGC/messico-el_salvador/mondo-790580" title="diretta della partita">El Salvador</a></span>
+				    		</td>
+							
+				    		<td width="55" title="diretta della partita"><a href="http://www.repubblica.it/sport/dirette/diretta/calcio/internazionale/concacaf-gold-cup-gruppo-c/INT_CONGCGC/messico-el_salvador/mondo-790580" class="ls-ended">Live</a></td>
+							
+				  		</tr>
+														  	<tr class="last">
+				    	<td colspan="6">
+																											<a class="ls-chart-link test6" href="http://www.repubblica.it/sport/dirette/classifica/calcio/internazionale/concacaf-gold-cup-gruppo-c/mondo-INT_CONGCGC">classifica</a>   <a class="ls-calendar-link" href="http://www.repubblica.it/sport/dirette/calendario/calcio/internazionale/concacaf-gold-cup-gruppo-c/mondo-INT_CONGCGC">calendario</a>
+													
+</td>
+				  	</tr>
+					</table>
+					</div>
+																									
+															<span class="division-nation-name">Uhren Cup</span>
+					<div class="divisions-nation">
+					<table width="655" border="0" cellpadding="0" cellspacing="0">
+									  		<tr>
+				    		<td width="40"
+ class="ls-match-scheduled"  
+><time>20:00</time></td>
+				    		<td width="213" class="ls-team first">
+				    			<span>Xamax</span>
+				    		</td>
+				    						    		<td class="ls-score" width="52"><span>-</span></td>
+				   			<td class="ls-score" width="52"><span>-</span></td>
+				   							    		<td width="213" class="ls-team">
+				    			<span>Stoke City</span>
+				    		</td>
+							
+				    		<td width="55" title="diretta della partita"></td>
+							
+				  		</tr>
+									  	<tr class="last">
+				    	<td colspan="6">
+																											<a class="ls-chart-link test6" href="http://www.repubblica.it/sport/dirette/classifica/calcio/internazionale/uhren-cup/mondo-INT_UHRC">classifica</a>   <a class="ls-calendar-link" href="http://www.repubblica.it/sport/dirette/calendario/calcio/internazionale/uhren-cup/mondo-INT_UHRC">calendario</a>
+													
+</td>
+				  	</tr>
+					</table>
+					</div>
+												
+	    </div>
+		<div class="nation-name">
+			<img alt="Islanda flag" src="https://www.repstatic.it/cless/main/sport-dati/2016/images/flag/is.gif" class="flag">
+			<h2>Islanda</h2>	
+		</div>
+		
+		<div class="dirette-nation">
+			        			
+				
+
+									     <span class="division-nation-name">Urvalsdeild</span>
+			<div class="divisions-nation">
+				<table width="655" border="0" cellpadding="0" cellspacing="0">
+												  		<tr>
+				    		<td width="40"
+
+ class="ls-match-scheduled"  
+><time>22:00</time></td>
+				    		<td width="213" class="ls-team first">
+				    			<span>IA Akranes</span>
+				    		</td>
+				    						    		<td class="ls-score" width="52"><span>-</span></td>
+				   			<td class="ls-score" width="52"><span>-</span></td>
+				   							    		<td width="213" class="ls-team">
+				    			<span>Vikingur Reykjavik</span>
+				    		</td>
+							
+				    		<td width="55" title="diretta della partita"></td>
+						
+				  		</tr>
+													  	<tr class="last">
+				    	<td colspan="6">
+																											<a class="ls-chart-link test8" href="http://www.repubblica.it/sport/dirette/classifica/calcio/islanda/urvalsdeild/mondo-ICE_URV">classifica</a>   <a class="ls-calendar-link" href="http://www.repubblica.it/sport/dirette/calendario/calcio/islanda/urvalsdeild/mondo-ICE_URV">calendario</a>
+													</td>
+				  	</tr>
+				</table>
+			</div>
+			
+	    </div>
+		<div class="nation-name">
+			<img alt="Kazakistan flag" src="https://www.repstatic.it/cless/main/sport-dati/2016/images/flag/kz.gif" class="flag">
+			<h2>Kazakistan</h2>	
+		</div>
+		
+		<div class="dirette-nation">
+			        			
+				
+
+									     <span class="division-nation-name">Premier League</span>
+			<div class="divisions-nation">
+				<table width="655" border="0" cellpadding="0" cellspacing="0">
+												  		<tr>
+				    		<td width="40"
+
+   class="ls-match-ended"
+><time>16:00</time></td>
+				    		<td width="213" class="ls-team first">
+				    			<span><a href="http://www.repubblica.it/sport/dirette/diretta/calcio/kazakistan/premier-league/KAZ_PREL/irtysh_pavlodar-tobol_kostanay/mondo-772598" title="diretta della partita">Irtysh Pavlodar</a></span>
+				    		</td>
+				    						    		<td class="ls-score" width="52"><span>1</span></td>
+				   			<td class="ls-score" width="52"><span>0</span></td>
+											    		<td width="213" class="ls-team">
+				    			<span><a href="http://www.repubblica.it/sport/dirette/diretta/calcio/kazakistan/premier-league/KAZ_PREL/irtysh_pavlodar-tobol_kostanay/mondo-772598" title="diretta della partita">Tobol Kostanay</a></span>
+				    		</td>
+							
+				    		<td width="55" title="diretta della partita"><a href="http://www.repubblica.it/sport/dirette/diretta/calcio/kazakistan/premier-league/KAZ_PREL/irtysh_pavlodar-tobol_kostanay/mondo-772598" class="ls-ended">Live</a></td>
+						
+				  		</tr>
+													  	<tr class="last">
+				    	<td colspan="6">
+																											<a class="ls-chart-link test8" href="http://www.repubblica.it/sport/dirette/classifica/calcio/kazakistan/premier-league/mondo-KAZ_PREL">classifica</a>   <a class="ls-calendar-link" href="http://www.repubblica.it/sport/dirette/calendario/calcio/kazakistan/premier-league/mondo-KAZ_PREL">calendario</a>
+													</td>
+				  	</tr>
+				</table>
+			</div>
+			
+	    </div>
+		<div class="nation-name">
+			<img alt="Malesia flag" src="https://www.repstatic.it/cless/main/sport-dati/2016/images/flag/my.gif" class="flag">
+			<h2>Malesia</h2>	
+		</div>
+		
+		<div class="dirette-nation">
+			        			
+				
+
+									     <span class="division-nation-name">Premier League</span>
+			<div class="divisions-nation">
+				<table width="655" border="0" cellpadding="0" cellspacing="0">
+																	  		<tr>
+				    		<td width="40"
+   class="ls-match-ended"
+><time>10:45</time></td>
+				    		<td width="213" class="ls-team first">
+				    			<span>Perlis</span>
+				    		</td>
+				    						    			<td class="ls-score" width="52"><span>3</span></td>
+				   				<td class="ls-score" width="52"><span>1</span></td>
+											    		<td width="213" class="ls-team">
+				    			<span>Kuantan FA</span>
+				    		</td>
+							
+				    			<td width="55" title="diretta della partita"></td>
+							
+				  		</tr>
+									  		<tr>
+				    		<td width="40"
+   class="ls-match-ended"
+><time>14:15</time></td>
+				    		<td width="213" class="ls-team first">
+				    			<span>Sabah FA</span>
+				    		</td>
+				    						    			<td class="ls-score" width="52"><span>1</span></td>
+				   				<td class="ls-score" width="52"><span>3</span></td>
+											    		<td width="213" class="ls-team">
+				    			<span>PKNP FC</span>
+				    		</td>
+							
+				    			<td width="55" title="diretta della partita"></td>
+							
+				  		</tr>
+									  		<tr>
+				    		<td width="40"
+   class="ls-match-ended"
+><time>15:00</time></td>
+				    		<td width="213" class="ls-team first">
+				    			<span>ATM FA</span>
+				    		</td>
+				    						    			<td class="ls-score" width="52"><span>0</span></td>
+				   				<td class="ls-score" width="52"><span>2</span></td>
+											    		<td width="213" class="ls-team">
+				    			<span>Terengganu</span>
+				    		</td>
+							
+				    			<td width="55" title="diretta della partita"></td>
+							
+				  		</tr>
+									  		<tr>
+				    		<td width="40"
+   class="ls-match-ended"
+><time>15:00</time></td>
+				    		<td width="213" class="ls-team first">
+				    			<span>Johor Darul Ta'zim II</span>
+				    		</td>
+				    						    			<td class="ls-score" width="52"><span>1</span></td>
+				   				<td class="ls-score" width="52"><span>0</span></td>
+											    		<td width="213" class="ls-team">
+				    			<span>PDRM</span>
+				    		</td>
+							
+				    			<td width="55" title="diretta della partita"></td>
+							
+				  		</tr>
+									  		<tr>
+				    		<td width="40"
+   class="ls-match-ended"
+><time>15:00</time></td>
+				    		<td width="213" class="ls-team first">
+				    			<span>Kuala Lumpur FA</span>
+				    		</td>
+				    						    			<td class="ls-score" width="52"><span>3</span></td>
+				   				<td class="ls-score" width="52"><span>2</span></td>
+											    		<td width="213" class="ls-team">
+				    			<span>Negeri Sembilan</span>
+				    		</td>
+							
+				    			<td width="55" title="diretta della partita"></td>
+							
+				  		</tr>
+									  		<tr>
+				    		<td width="40"
+   class="ls-match-ended"
+><time>15:00</time></td>
+				    		<td width="213" class="ls-team first">
+				    			<span>UiTM</span>
+				    		</td>
+				    						    			<td class="ls-score" width="52"><span>3</span></td>
+				   				<td class="ls-score" width="52"><span>3</span></td>
+											    		<td width="213" class="ls-team">
+				    			<span>MISC-MIFA</span>
+				    		</td>
+							
+				    			<td width="55" title="diretta della partita"></td>
+							
+				  		</tr>
+																	  	<tr class="last">
+				    	<td colspan="6">
+																											<a class="ls-chart-link test8" href="http://www.repubblica.it/sport/dirette/classifica/calcio/malesia/premier-league/mondo-MAL_PREL1">classifica</a>   <a class="ls-calendar-link" href="http://www.repubblica.it/sport/dirette/calendario/calcio/malesia/premier-league/mondo-MAL_PREL1">calendario</a>
+													</td>
+				  	</tr>
+				</table>
+			</div>
+			
+	    </div>
+		<div class="nation-name">
+			<img alt="Norvegia flag" src="https://www.repstatic.it/cless/main/sport-dati/2016/images/flag/no.gif" class="flag">
+			<h2>Norvegia</h2>	
+		</div>
+		
+		<div class="dirette-nation">
+			        			
+				
+
+			
+																			
+															<span class="division-nation-name">3ª Divisione Avdeling 4</span>
+					<div class="divisions-nation">
+					<table width="655" border="0" cellpadding="0" cellspacing="0">
+														  		<tr>
+				    		<td width="40"
+ class="ls-match-scheduled"  
+><time>18:00</time></td>
+				    		<td width="213" class="ls-team first">
+				    			<span>Lysekloster</span>
+				    		</td>
+				    						    		<td class="ls-score" width="52"><span>-</span></td>
+				   			<td class="ls-score" width="52"><span>-</span></td>
+				   							    		<td width="213" class="ls-team">
+				    			<span>Brann 2</span>
+				    		</td>
+							
+				    		<td width="55" title="diretta della partita"></td>
+							
+				  		</tr>
+									  		<tr>
+				    		<td width="40"
+ class="ls-match-scheduled"  
+><time>18:00</time></td>
+				    		<td width="213" class="ls-team first">
+				    			<span>Stord</span>
+				    		</td>
+				    						    		<td class="ls-score" width="52"><span>-</span></td>
+				   			<td class="ls-score" width="52"><span>-</span></td>
+				   							    		<td width="213" class="ls-team">
+				    			<span>Haugesund 2</span>
+				    		</td>
+							
+				    		<td width="55" title="diretta della partita"></td>
+							
+				  		</tr>
+									  		<tr>
+				    		<td width="40"
+ class="ls-match-scheduled"  
+><time>19:00</time></td>
+				    		<td width="213" class="ls-team first">
+				    			<span>Aalesund 2</span>
+				    		</td>
+				    						    		<td class="ls-score" width="52"><span>-</span></td>
+				   			<td class="ls-score" width="52"><span>-</span></td>
+				   							    		<td width="213" class="ls-team">
+				    			<span>Spjelkavik</span>
+				    		</td>
+							
+				    		<td width="55" title="diretta della partita"></td>
+							
+				  		</tr>
+														  	<tr class="last">
+				    	<td colspan="6">
+																											<a class="ls-chart-link test6" href="http://www.repubblica.it/sport/dirette/classifica/calcio/norvegia/3-divisione-avdeling-4/mondo-NOR_3.DA41">classifica</a>   <a class="ls-calendar-link" href="http://www.repubblica.it/sport/dirette/calendario/calcio/norvegia/3-divisione-avdeling-4/mondo-NOR_3.DA41">calendario</a>
+													
+</td>
+				  	</tr>
+					</table>
+					</div>
+																									
+															<span class="division-nation-name">3ª Divisione Avdeling 2</span>
+					<div class="divisions-nation">
+					<table width="655" border="0" cellpadding="0" cellspacing="0">
+									  		<tr>
+				    		<td width="40"
+ class="ls-match-scheduled"  
+><time>18:00</time></td>
+				    		<td width="213" class="ls-team first">
+				    			<span>Redalen</span>
+				    		</td>
+				    						    		<td class="ls-score" width="52"><span>-</span></td>
+				   			<td class="ls-score" width="52"><span>-</span></td>
+				   							    		<td width="213" class="ls-team">
+				    			<span>Stabaek 2</span>
+				    		</td>
+							
+				    		<td width="55" title="diretta della partita"></td>
+							
+				  		</tr>
+									  	<tr class="last">
+				    	<td colspan="6">
+																											<a class="ls-chart-link test6" href="http://www.repubblica.it/sport/dirette/classifica/calcio/norvegia/3-divisione-avdeling-2/mondo-NOR_3DA2">classifica</a>   <a class="ls-calendar-link" href="http://www.repubblica.it/sport/dirette/calendario/calcio/norvegia/3-divisione-avdeling-2/mondo-NOR_3DA2">calendario</a>
+													
+</td>
+				  	</tr>
+					</table>
+					</div>
+																									
+															<span class="division-nation-name">Eliteserien</span>
+					<div class="divisions-nation">
+					<table width="655" border="0" cellpadding="0" cellspacing="0">
+									  		<tr>
+				    		<td width="40"
+  class="ls-match-hour" 
+><time>19:00</time></td>
+				    		<td width="213" class="ls-team first">
+				    			<span><a href="http://www.repubblica.it/sport/dirette/diretta/calcio/norvegia/tippeligaen/NOR_TIP/sarpsborg_08-lillestroem/mondo-740611" title="diretta della partita">Sarpsborg 08</a></span>
+				    		</td>
+				    						    		<td class="ls-score" width="52"><span>1</span></td>
+				   			<td class="ls-score" width="52"><span>1</span></td>
+											    		<td width="213" class="ls-team">
+				    			<span><a href="http://www.repubblica.it/sport/dirette/diretta/calcio/norvegia/tippeligaen/NOR_TIP/sarpsborg_08-lillestroem/mondo-740611" title="diretta della partita">Lillestroem</a></span>
+				    		</td>
+							
+				    		<td width="55" title="diretta della partita"><a href="http://www.repubblica.it/sport/dirette/diretta/calcio/norvegia/tippeligaen/NOR_TIP/sarpsborg_08-lillestroem/mondo-740611" class="ls-live">Live</a></td>
+							
+				  		</tr>
+									  	<tr class="last">
+				    	<td colspan="6">
+																											<a class="ls-chart-link test6" href="http://www.repubblica.it/sport/dirette/classifica/calcio/norvegia/eliteserien/mondo-NOR_TIP">classifica</a>   <a class="ls-calendar-link" href="http://www.repubblica.it/sport/dirette/calendario/calcio/norvegia/eliteserien/mondo-NOR_TIP">calendario</a>
+													
+</td>
+				  	</tr>
+					</table>
+					</div>
+												
+	    </div>
+		<div class="nation-name">
+			<img alt="Perù flag" src="https://www.repstatic.it/cless/main/sport-dati/2016/images/flag/pe.gif" class="flag">
+			<h2>Perù</h2>	
+		</div>
+		
+		<div class="dirette-nation">
+			        			
+				
+
+									     <span class="division-nation-name">Primera División Apertura</span>
+			<div class="divisions-nation">
+				<table width="655" border="0" cellpadding="0" cellspacing="0">
+																	  		<tr>
+				    		<td width="40"
+   class="ls-match-ended"
+><time>01:15</time></td>
+				    		<td width="213" class="ls-team first">
+				    			<span><a href="http://www.repubblica.it/sport/dirette/diretta/calcio/per/primera-divisin-apertura/PER_PRIDA/sport_rosario-sporting_cristal/mondo-817015" title="diretta della partita">Sport Rosario</a></span>
+				    		</td>
+				    						    			<td class="ls-score" width="52"><span>1</span></td>
+				   				<td class="ls-score" width="52"><span>3</span></td>
+											    		<td width="213" class="ls-team">
+				    			<span><a href="http://www.repubblica.it/sport/dirette/diretta/calcio/per/primera-divisin-apertura/PER_PRIDA/sport_rosario-sporting_cristal/mondo-817015" title="diretta della partita">Sporting Cristal</a></span>
+				    		</td>
+							
+				    			<td width="55" title="diretta della partita"><a href="http://www.repubblica.it/sport/dirette/diretta/calcio/per/primera-divisin-apertura/PER_PRIDA/sport_rosario-sporting_cristal/mondo-817015" class="ls-ended">Live</a></td>
+							
+				  		</tr>
+									  		<tr>
+				    		<td width="40"
+ class="ls-match-scheduled"  
+><time>22:30</time></td>
+				    		<td width="213" class="ls-team first">
+				    			<span>CD UT Cajamarca</span>
+				    		</td>
+				    						    		<td class="ls-score" width="52"><span>-</span></td>
+				   			<td class="ls-score" width="52"><span>-</span></td>
+				   							    		<td width="213" class="ls-team">
+				    			<span>Ayacucho FC</span>
+				    		</td>
+							
+				    			<td width="55" title="diretta della partita"></td>
+							
+				  		</tr>
+																	  	<tr class="last">
+				    	<td colspan="6">
+																											<a class="ls-chart-link test8" href="http://www.repubblica.it/sport/dirette/classifica/calcio/per/primera-divisin-apertura/mondo-PER_PRIDA">classifica</a>   <a class="ls-calendar-link" href="http://www.repubblica.it/sport/dirette/calendario/calcio/per/primera-divisin-apertura/mondo-PER_PRIDA">calendario</a>
+													</td>
+				  	</tr>
+				</table>
+			</div>
+			
+	    </div>
+		<div class="nation-name">
+			<img alt="Singapore flag" src="https://www.repstatic.it/cless/main/sport-dati/2016/images/flag/sg.gif" class="flag">
+			<h2>Singapore</h2>	
+		</div>
+		
+		<div class="dirette-nation">
+			        			
+				
+
+									     <span class="division-nation-name">League Cup Grp. A</span>
+			<div class="divisions-nation">
+				<table width="655" border="0" cellpadding="0" cellspacing="0">
+																	  		<tr>
+				    		<td width="40"
+   class="ls-match-ended"
+><time>13:30</time></td>
+				    		<td width="213" class="ls-team first">
+				    			<span><a href="http://www.repubblica.it/sport/dirette/diretta/calcio/singapore/league-cup-grp-a/SIN_LEACGA/albirex_niigata_fc-warriors_fc/mondo-843139" title="diretta della partita">Albirex Niigata FC</a></span>
+				    		</td>
+				    						    			<td class="ls-score" width="52"><span>2</span></td>
+				   				<td class="ls-score" width="52"><span>0</span></td>
+											    		<td width="213" class="ls-team">
+				    			<span><a href="http://www.repubblica.it/sport/dirette/diretta/calcio/singapore/league-cup-grp-a/SIN_LEACGA/albirex_niigata_fc-warriors_fc/mondo-843139" title="diretta della partita">Warriors FC</a></span>
+				    		</td>
+							
+				    			<td width="55" title="diretta della partita"><a href="http://www.repubblica.it/sport/dirette/diretta/calcio/singapore/league-cup-grp-a/SIN_LEACGA/albirex_niigata_fc-warriors_fc/mondo-843139" class="ls-ended">Live</a></td>
+							
+				  		</tr>
+									  		<tr>
+				    		<td width="40"
+   class="ls-match-ended"
+><time>13:30</time></td>
+				    		<td width="213" class="ls-team first">
+				    			<span><a href="http://www.repubblica.it/sport/dirette/diretta/calcio/singapore/league-cup-grp-a/SIN_LEACGA/home_united_fc-hougang_united_fc/mondo-843140" title="diretta della partita">Home United FC</a></span>
+				    		</td>
+				    						    			<td class="ls-score" width="52"><span>1</span></td>
+				   				<td class="ls-score" width="52"><span>1</span></td>
+											    		<td width="213" class="ls-team">
+				    			<span><a href="http://www.repubblica.it/sport/dirette/diretta/calcio/singapore/league-cup-grp-a/SIN_LEACGA/home_united_fc-hougang_united_fc/mondo-843140" title="diretta della partita">Hougang United FC</a></span>
+				    		</td>
+							
+				    			<td width="55" title="diretta della partita"><a href="http://www.repubblica.it/sport/dirette/diretta/calcio/singapore/league-cup-grp-a/SIN_LEACGA/home_united_fc-hougang_united_fc/mondo-843140" class="ls-ended">Live</a></td>
+							
+				  		</tr>
+																	  	<tr class="last">
+				    	<td colspan="6">
+																											<a class="ls-chart-link test8" href="http://www.repubblica.it/sport/dirette/classifica/calcio/singapore/league-cup-grp-a/mondo-SIN_LEACGA">classifica</a>   <a class="ls-calendar-link" href="http://www.repubblica.it/sport/dirette/calendario/calcio/singapore/league-cup-grp-a/mondo-SIN_LEACGA">calendario</a>
+													</td>
+				  	</tr>
+				</table>
+			</div>
+			
+	    </div>
+		<div class="nation-name">
+			<img alt="Stati Uniti d'America flag" src="https://www.repstatic.it/cless/main/sport-dati/2016/images/flag/us.gif" class="flag">
+			<h2>Stati Uniti d'America</h2>	
+		</div>
+		
+		<div class="dirette-nation">
+			        			
+				
+
+			
+																			
+															<span class="division-nation-name">USL</span>
+					<div class="divisions-nation">
+					<table width="655" border="0" cellpadding="0" cellspacing="0">
+									  		<tr>
+				    		<td width="40"
+   class="ls-match-ended"
+><time>00:00</time></td>
+				    		<td width="213" class="ls-team first">
+				    			<span><a href="http://www.repubblica.it/sport/dirette/diretta/calcio/stati-uniti-damerica/usl/USA_USL/fc_cincinnati-richmond_kickers/mondo-770285" title="diretta della partita">FC Cincinnati</a></span>
+				    		</td>
+				    						    		<td class="ls-score" width="52"><span>2</span></td>
+				   			<td class="ls-score" width="52"><span>0</span></td>
+											    		<td width="213" class="ls-team">
+				    			<span><a href="http://www.repubblica.it/sport/dirette/diretta/calcio/stati-uniti-damerica/usl/USA_USL/fc_cincinnati-richmond_kickers/mondo-770285" title="diretta della partita">Richmond Kickers</a></span>
+				    		</td>
+							
+				    		<td width="55" title="diretta della partita"><a href="http://www.repubblica.it/sport/dirette/diretta/calcio/stati-uniti-damerica/usl/USA_USL/fc_cincinnati-richmond_kickers/mondo-770285" class="ls-ended">Live</a></td>
+							
+				  		</tr>
+									  	<tr class="last">
+				    	<td colspan="6">
+																											<a class="ls-chart-link test6" href="http://www.repubblica.it/sport/dirette/classifica/calcio/stati-uniti-damerica/usl/mondo-USA_USL">classifica</a>   <a class="ls-calendar-link" href="http://www.repubblica.it/sport/dirette/calendario/calcio/stati-uniti-damerica/usl/mondo-USA_USL">calendario</a>
+													
+</td>
+				  	</tr>
+					</table>
+					</div>
+																									
+															<span class="division-nation-name">PDL</span>
+					<div class="divisions-nation">
+					<table width="655" border="0" cellpadding="0" cellspacing="0">
+														  		<tr>
+				    		<td width="40"
+   class="ls-match-ended"
+><time>00:00</time></td>
+				    		<td width="213" class="ls-team first">
+				    			<span>OKC Energy FC U23</span>
+				    		</td>
+				    						    		<td class="ls-score" width="52"><span>6</span></td>
+				   			<td class="ls-score" width="52"><span>0</span></td>
+											    		<td width="213" class="ls-team">
+				    			<span>FC Cleburne</span>
+				    		</td>
+							
+				    		<td width="55" title="diretta della partita"></td>
+							
+				  		</tr>
+									  		<tr>
+				    		<td width="40"
+   class="ls-match-ended"
+><time>01:00</time></td>
+				    		<td width="213" class="ls-team first">
+				    			<span>Ocean City Nor'easters</span>
+				    		</td>
+				    						    		<td class="ls-score" width="52"><span>1</span></td>
+				   			<td class="ls-score" width="52"><span>1</span></td>
+											    		<td width="213" class="ls-team">
+				    			<span>New York Red Bulls U23</span>
+				    		</td>
+							
+				    		<td width="55" title="diretta della partita"></td>
+							
+				  		</tr>
+									  		<tr>
+				    		<td width="40"
+   class="ls-match-ended"
+><time>01:00</time></td>
+				    		<td width="213" class="ls-team first">
+				    			<span>Wilmington Hammerheads</span>
+				    		</td>
+				    						    		<td class="ls-score" width="52"><span>3</span></td>
+				   			<td class="ls-score" width="52"><span>3</span></td>
+											    		<td width="213" class="ls-team">
+				    			<span>Tobacco Road FC</span>
+				    		</td>
+							
+				    		<td width="55" title="diretta della partita"></td>
+							
+				  		</tr>
+									  		<tr>
+				    		<td width="40"
+   class="ls-match-ended"
+><time>01:30</time></td>
+				    		<td width="213" class="ls-team first">
+				    			<span>FC Lehigh Valley United Sonic</span>
+				    		</td>
+				    						    		<td class="ls-score" width="52"><span>1</span></td>
+				   			<td class="ls-score" width="52"><span>2</span></td>
+											    		<td width="213" class="ls-team">
+				    			<span>F.A. Euro</span>
+				    		</td>
+							
+				    		<td width="55" title="diretta della partita"></td>
+							
+				  		</tr>
+														  	<tr class="last">
+				    	<td colspan="6">
+																											<a class="ls-chart-link test6" href="http://www.repubblica.it/sport/dirette/classifica/calcio/stati-uniti-damerica/pdl/mondo-USA_PDL">classifica</a>   <a class="ls-calendar-link" href="http://www.repubblica.it/sport/dirette/calendario/calcio/stati-uniti-damerica/pdl/mondo-USA_PDL">calendario</a>
+													
+</td>
+				  	</tr>
+					</table>
+					</div>
+												
+	    </div>
+		<div class="nation-name">
+			<img alt="Svezia flag" src="https://www.repstatic.it/cless/main/sport-dati/2016/images/flag/se.gif" class="flag">
+			<h2>Svezia</h2>	
+		</div>
+		
+		<div class="dirette-nation">
+			        			
+				
+
+									     <span class="division-nation-name">Allsvenskan</span>
+			<div class="divisions-nation">
+				<table width="655" border="0" cellpadding="0" cellspacing="0">
+																	  		<tr>
+				    		<td width="40"
+  class="ls-match-hour" 
+><time>19:00</time></td>
+				    		<td width="213" class="ls-team first">
+				    			<span><a href="http://www.repubblica.it/sport/dirette/diretta/calcio/svezia/allsvenskan/SWE_ALL/djurgaarden-gif_sundsvall/mondo-737235" title="diretta della partita">Djurgaarden</a></span>
+				    		</td>
+				    						    			<td class="ls-score" width="52"><span>0</span></td>
+				   				<td class="ls-score" width="52"><span>0</span></td>
+											    		<td width="213" class="ls-team">
+				    			<span><a href="http://www.repubblica.it/sport/dirette/diretta/calcio/svezia/allsvenskan/SWE_ALL/djurgaarden-gif_sundsvall/mondo-737235" title="diretta della partita">GIF Sundsvall</a></span>
+				    		</td>
+							
+				    			<td width="55" title="diretta della partita"><a href="http://www.repubblica.it/sport/dirette/diretta/calcio/svezia/allsvenskan/SWE_ALL/djurgaarden-gif_sundsvall/mondo-737235" class="ls-live">Live</a></td>
+							
+				  		</tr>
+									  		<tr>
+				    		<td width="40"
+  class="ls-match-hour" 
+><time>19:00</time></td>
+				    		<td width="213" class="ls-team first">
+				    			<span><a href="http://www.repubblica.it/sport/dirette/diretta/calcio/svezia/allsvenskan/SWE_ALL/ifk_gotemburgo-halmstads_bk/mondo-737233" title="diretta della partita">IFK Gotemburgo</a></span>
+				    		</td>
+				    						    			<td class="ls-score" width="52"><span>0</span></td>
+				   				<td class="ls-score" width="52"><span>0</span></td>
+											    		<td width="213" class="ls-team">
+				    			<span><a href="http://www.repubblica.it/sport/dirette/diretta/calcio/svezia/allsvenskan/SWE_ALL/ifk_gotemburgo-halmstads_bk/mondo-737233" title="diretta della partita">Halmstads BK</a></span>
+				    		</td>
+							
+				    			<td width="55" title="diretta della partita"><a href="http://www.repubblica.it/sport/dirette/diretta/calcio/svezia/allsvenskan/SWE_ALL/ifk_gotemburgo-halmstads_bk/mondo-737233" class="ls-live">Live</a></td>
+							
+				  		</tr>
+																	  	<tr class="last">
+				    	<td colspan="6">
+																											<a class="ls-chart-link test8" href="http://www.repubblica.it/sport/dirette/classifica/calcio/svezia/allsvenskan/mondo-SWE_ALL">classifica</a>   <a class="ls-calendar-link" href="http://www.repubblica.it/sport/dirette/calendario/calcio/svezia/allsvenskan/mondo-SWE_ALL">calendario</a>
+													</td>
+				  	</tr>
+				</table>
+			</div>
+			
+	    </div>
+
+
+
+
+<div class="imm-banner">
+
+</div>            <div id="share-bottom"></div>
+                       
+<br>
+
+<div class="banner-rep-660">
+<img src="https://www.repstatic.it/cless/main/sport-dati/2016/images/banner-dirette/rep-livescore-660x170.jpg" usemap="#Map" border="0"/>
+<map name="Map">
+  <area shape="rect" coords="348,118,482,161" href="https://play.google.com/store/apps/details?id=it.elemedia.direttesportive" target="_self">
+  <area shape="rect" coords="504,119,638,160" href="https://itunes.apple.com/it/app/repubblica-sport-dirette/id327113641?mt=8" target="_self">
+</map>
+</div>
+          
+                     </div>
+                <div id="sidebar" role="complementary">
+			
+
+<div id="adv-right"><script type="text/javascript">OAS_RICH('Middle1');</script></div>
+
+
+
+
+    
+
+        <script type="text/javascript">new Yetii({ id: 'classifica', active: 1 });</script>  
+
+
+
+	
+
+
+
+
+<div class="fantacalcio">
+    <a href="http://www.fantacalcio.kataweb.it/?origin=sport-rep">
+    	<img src="http://www.repubblica.it/static/images/sport/2012/b_fantacalcio.gif?v=201213" alt="Gioca su Fantacalcio.it">
+    </a>
+</div>
+<div class="adv super-vetrina"><script type="text/javascript">OAS_RICH('x40');</script></div>
+<div class="adv super-vetrina"><script type="text/javascript">OAS_RICH('x39');</script></div>
+<div class="shared-content-vetrina" id="OAS-titolo-vetrina">PUBBLICIT&Agrave;<script type="text/javascript">OAS_RICH('x41');OAS_RICH('x42');OAS_RICH('x43');OAS_RICH('x44');OAS_RICH('x45');OAS_RICH('x46');</script></div>
+
+<div class="banner-rep-300">
+<img src="https://www.repstatic.it/cless/main/sport-dati/2016/images/banner-dirette/rep-livescore-300x250.jpg" usemap="#Map1" border="0"/>
+<map name="Map1">
+  <area shape="rect" coords="14,194,145,235" href="https://play.google.com/store/apps/details?id=it.elemedia.direttesportive" target="_self">
+  <area shape="rect" coords="152,193,286,235" href="https://itunes.apple.com/it/app/repubblica-sport-dirette/id327113641?mt=8" target="_self">
+</map>
+</div>
+	  <div class="adv adv-middle3">
+    <script >MNZ_RICH('Middle3');</script>
+  </div>
+  
+
+        </div>
+           		<script src="http://scripts.kataweb.it/zbanner_consorzio.js"></script></div> 
+	  <div class="adv adv-piede">
+    <script >MNZ_RICH('Piede');</script>
+  </div>
+      <footer id="page-footer" role="contentinfo">
+    	<!--#i n c l u d e virtual="includes/footerone.html" -->
+    	<script src="http://www.repubblica.it/static/js/common/footer2lev.js"></script>
+    </footer>
+
+
+<!-- START Webtrekk 3.1.5 - lib 1.0 - http://data.kataweb.it/scripts/includes/wt/repubblica.it/dirette.sport/wt.html  -->
+<script type="text/javascript" src="http://data.kataweb.it/scripts/js/wt/wt_v315_1_async.js?20121129"></script>
+<noscript><img class="webtrekk-noscript" src="http://gruppoespresso01.webtrekk.net/253822047730481/wt.pl?p=321,0&amp;cg1=repubblica&amp;cg2=noscript" height="1" width="1" alt="" /></noscript>
+<!-- END Webtrekk -->
+
+<!-- Begin comScore Tag -->
+<script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "19163456" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script>
+<noscript>
+  <img src="http://b.scorecardresearch.com/p?c1=2&c2=19163456&cv=2.0&cj=1" />
+</noscript>
+<!-- End comScore Tag -->
+
+<!-- START Nielsen Online SiteCensus V6.0 -->
+<!-- COPYRIGHT 2012 Nielsen Online -->
+<script type="text/javascript" src="//secure-it.imrworldwide.com/v60.js">
+</script>
+<script type="text/javascript">
+ var pvar = { cid: "kataweb-it", content: "0", server: "secure-it" };
+ var feat = { check_cookie: 0 };
+ var trac = nol_t(pvar, feat);
+ trac.record().post();
+</script>
+<noscript>
+ <div>
+ <img src="//secure-it.imrworldwide.com/cgi-bin/m?ci=kataweb-it&amp;cg=0&amp;cc=0&amp;ts=noscript" 
+ width="1" height="1" alt="" />
+ </div>
+</noscript>
+<!-- END Nielsen Online SiteCensus V6.0 -->
+
+
+
+
+
+</body>
+</html>
