@@ -514,8 +514,16 @@
                 e.Row.Cells(5).Text = ""
                 e.Row.Cells(6).Text = ""
             Else
-                Dim r1 As Single = e.Row.Cells(4).Text
-                Dim r2 As Single = e.Row.Cells(5).Text
+                Dim r1 As Single
+                Dim r2 As Single
+
+                Try
+                    r1 = e.Row.Cells(4).Text
+                    r2 = e.Row.Cells(5).Text
+                Catch ex As Exception
+                    r1 = 0
+                    r2 = 0
+                End Try
 
                 If r1 > r2 Then
                     e.Row.Cells(6).Text = "1"

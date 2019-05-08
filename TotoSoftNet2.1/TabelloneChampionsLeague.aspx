@@ -1,4 +1,4 @@
-﻿<%@ Page Title="" Language="vb" AutoEventWireup="false" MasterPageFile="TsnII.Master" CodeBehind="TabelloneChampionsLeague.aspx.vb" MaintainScrollPositionOnPostBack = "true" Inherits="TotoSoftNet21_Test.TabelloneChampionsLeague" %>
+﻿<%@ Page Title="" Language="vb" AutoEventWireup="false" MasterPageFile="TsnII.Master" CodeBehind="TabelloneChampionsLeague.aspx.vb" MaintainScrollPositionOnPostBack = "true" Inherits="TotoSoftNet21.TabelloneChampionsLeague" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="contentMenuNavigazione" runat="server">
     <ul class="breadcrumb">
